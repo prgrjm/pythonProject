@@ -1,0 +1,666 @@
+tier,leagueId,queue,name,summonerId,summonerName,leaguePoints,rank,wins,losses,veteran,inactive,freshBlood,hotStreak
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,h49v3uctVNLzQ8BbYce16FqUaUbDBEXGZkITjiNrve8I7k-idWHChU3mAQ,0o0OoO,540,I,65,54,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,0bgZmmQ4jwgbKRBT7F0HYAjHrOZnrz4q_FJyfbz58lmTSkI,Gen G Quid,548,I,68,53,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,gUxlsBryEYybsOVlBXc5TfM07tCPHam1DdWvhWMw4AkQE9I,칼과 창 방패,688,I,73,56,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,-pb19a62p9ZmRppebLllbqFUQAjXH9Z6UGJgeu0gcgpsaxU,권 지 인,521,I,61,43,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,vYvL2YFxLhAmOCU2MPO077LOF1rIEE8P9BGSnXtPEokgesI,전상득,640,I,82,59,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,yengqeIR0gcJIowtGPsCPgzaaLX3gFqnI_kC4Sv2MrY5cD4,히히 못먹어,554,I,69,45,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,87NvQD2b49KdvoFpJ0csdbub5BW7JfHESb0fQFlKr-VDvw,huya jincanyi,508,I,53,33,False,False,True,True
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,fyOuYQCK9LjfUwzDXRaqtFZRF6Mtfx97hltTtctzrFWvpso,이 차가 식기전에,472,I,71,63,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,T4EdIIx3ticsQTXelAW9pKDRYXiQemAijIVvmoasSRSY-UM,달리기 왕,582,I,56,34,False,False,True,False
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,axwm8N5-mQ6uxZttPgqLR8al8AXujBhxZVyfanhroYJR6kz6,A glance,685,I,79,58,False,False,True,True
+CHALLENGER,05fb99f4-e149-3133-a78e-821597582f9d,RANKED_SOLO_5x5,Rengar's Swashbucklers,BRXrJkoozSnqSSRdEhCnEXHUlZz0HfutWHAybuV4mEoBJ-4,패배를까먹은사람,977,I,83,44,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,PPk2K0adhdoZjU2-mwQxByeBTWYEN93LQjcETNmj0bBQaDUcT4r4rkHWrw,xingluo,253,I,55,41,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,Mo2LX12j4Npr4pxxuYXxy4wntdBzEFpG4_0TTr4MrI8yA-Bu,농심라면다내꺼야,289,I,40,31,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,61HFo0ubpATtF2T9EB3F-VR4Xe5O8eN2xbS3fLdqpM8tRBw,병장 이승빈,187,I,38,22,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,Ze8WyCpq4PCc1hsw8Dpws3lSVmIn7WqGkir5iFAm0v8TuaZU,패배룰까먹은사람,239,I,60,58,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,T75TxjtT67OljswlSETeH56iyDRjmSRBl3rtQL-Gb4MIyy5jj4y7gCLfZg,죽여주마1,278,I,37,25,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,oL8efF0J7GhLICwsZDTrSqfL3DTuEajeLi8K8--NXJ1Td-Y,ASBCDEFG,162,I,44,35,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,fOxYa2W1TC5dBl35DHt79pAsnpLVZYSWOfu-9yniz7fgPLU,Twitch Tv 쥐린내,563,I,69,35,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,cvLRSL9oUpWXmeKneBMJepmgznORjhe82WPXWljN9fcaoLA,qazesc,353,I,42,21,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,x4Y19Qt3uNx5ckIxTqX-bQc6RJnJcuoC3rgKy2If3E-inj2TG0ijLVSarg,trimester,237,I,52,39,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,y05FeXxsdQmd0K-lRUEk0S0G4WMMhORYLKV9NYYzTXy8gVbWIOO2Tx3uaA,zejingxingnai,219,I,68,59,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,H_hUYIVCsRAg_UiO6WIToQwvdRNJHypxX0o-nKVLbtUnBDo,Migung,381,I,53,37,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,11R96FBOg1bCxa5LgdsWnq0pYzd0k05kzIIAJgd8OemRBaI,Canna00,343,I,45,26,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,ov8qSbf78061gL5AtlrmH1aF7iWFwzrPd9eiEfe57H8dl58,lixingyi,272,I,53,34,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,FcpH_fJoyD6WPOoQ8BadjcDmCBbgOUCbasxcjM-PHgwZ0-o,열심히해볼생각,239,I,66,64,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,n-KeuA9Azn0zbCvkG4YitAodrsLrQ2Gni3u2sPh_oWOTbRQB7tGyrO9HAg,남장구,224,I,72,58,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,XnmUl7paASvRNf4Y7tAXmVtSJjVgz67E0LedZfuKsZEAx0Q,KING MIR,342,I,52,38,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,TQBpzF23gpyvsuuamPriCaD6fsKMc0k3AvyEYCaSN-ajkrw,skuzhiwanjiaOwO,244,I,56,38,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,aDW2nSx6YdCP0DHZ5Wpb1Z3Rk0Z1VCpNfePaFgG068HLuIG6OnX2kH_AEw,제때에즐기다,193,I,40,27,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,hBI_iJICjt15WPj3Hd8dBZdjTxW-0zlzRtQ8A-eQnBg7MB8,whtwht,355,I,64,37,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,mXv8unozmscsLz1K95xGlQYX_659QOoUoTzFx-Uh9beKmAf9-2hdjSSOKw,13322133312311,387,I,49,31,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,Aq7Zzc4FwU72trVrhxDIJr_hMtd-hWeUQsRIEx2RHrX1GjM,쿠 리,371,I,62,46,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,K_KJPusGCkeLLrvDMB7TcFi-cUTumrF9RwDU4nf_UBVFu0Y,수면의 왕,211,I,50,37,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,asSuspwmVEquZ0iGl6hvcb7y2za8sc6KgrOgpmbigYyX84QgM7G7aUw24Q,wow ohhhhhhhh,321,I,45,34,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,CdhSW34UKDcUDvgdr-cWcy33rHld9kIUMNnzYtGpPsW9Anpb,Pier0,394,I,48,35,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,rnDmfxjm8GyrebPqZxXXoqBRXlME8M26QGWDept_FoIQRHBT6V6h9vRYDg,xiangmengyiyang,400,I,68,50,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,2Wty_sSeCoCAFyGRFfQl4SrI1AAdhFJcVoJmQH0P8nZndxo,왁컬로이두,275,I,31,16,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,yIaBc0WPHgymEfhEyysUdQ8oHTcus2VQDUo2JeidkRrpaw,잘하자 이현2022,210,I,50,35,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,4Sdjvi2D-qy32MynsFgqfnNwM4Qy21urOcmRird4koTcAw,No longer love,341,I,50,40,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,-IUgvtxR-2gGnaHfvqbf3nzBB8BvjLmHcqUGxurpGnEFe2A,하루만너가될래 ,217,I,59,44,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,5hKTxh3QBBe1kHAKSbHtBuBxlZixgT7AX97s5Dbhfxnwux3Aciatd9jFJA,jrejke,241,I,48,37,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,M-O3Z8Ux0bOz2_7X9xyyrhxLdRB5qJ1NRSVCt00S1aw7Tw,hopeisdangerous,269,I,69,48,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,ojVMNWgzBrKPPEiDtNuOglxB4KG83_KTDaw0sh2hR7oca5D_Z2thbEzvSg,Ahnananananan,285,I,46,32,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,XXNBE0fERM1CigvkNxQpP-B2d-7Rl9CIh1sZEzD275qnTyY,해강고 원딜,202,I,69,67,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,61Er98-70VgNVtYxHGc9-0Le0vc_t_envhHUJVudlJefqec,xbtb,432,I,44,26,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,l5PDkRm3WYeSX0ft0skD-iBiByeoBhAlhht-GgsY4P_r5Co,kfo,230,I,73,72,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,kfi4Wbia_nezxFrProwBKEN_rY59g7Pc8gIOcpj9KYKhkuI,Pungyeonn,407,I,65,50,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,I9tjMZB33i71cBN5Pe62ZfSZ19PLB5R7TwrZDzCJO7nBJ3JritcyPPLpiQ,Azh1,322,I,46,33,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,12axPragIGvp4yzIChddZkkLii5kF_cSgx_fSMXIsoZPHJ3HvzpvBK1XwQ,2019BLGJAlielie,248,I,82,69,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,C4Itw-04lEI1UJ8GAPjrLlljnq6LdiRBuKaC5GUYUk3_zpQ,커피물조절장인,513,I,74,50,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,XG7l0nJemhxHr9jZp6vO0h52Ho-KyiAUNN03pFSasRDC--g9Ees9GIJrEg,Epilogue for u,289,I,60,53,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,qWQfrJB1eLxypaKc-JTBigoMbdQ4NVlUEzHUXsEJlFss7IQX7bhCplSetQ,땅에 묻히다,298,I,45,34,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,2ib7BsKIpw9mqsY29oLGoTJUIc6dtEv0zLrpr3JFZ90VyQNlkDl9MJvX4w,lhyz,136,I,57,58,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,PUHWxuf40RdZ94QopA0yUrb4HEQkth5WF6hxf1VFmu4ROeyNiS-_qlDyHQ,2330,283,I,44,31,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,RBbaoBVoKMaOvabMTh_W3fDQdImrx5aalLuK0QFwd7iOfOc,누쇤퍅,343,I,72,60,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,w8TyD3tQ9pUTv60nxx3Z8RDF64Ak1Yx_B3oVzDN_wQjxGd0MjEPManjEZg,일찍 잠자리에 ,246,I,42,29,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,tjbOV17gK7jWoXWP799_27EZosw7mmYkvc809i_oz0WDgv4,By 불비,235,I,67,61,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,zIdw0QOtdUQuaYgxJoZJDxdprJOTVVAI8tw3dlDdSSj5zib1-aTfcZU38A,FA Young JG,225,I,64,60,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,qLjzDKY8hp0IkA1dAl1FhoLJjf5I8LznBVvZS1s-ULYOylw,갱붕이,415,I,58,43,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,xK-dbkplBGEKSKxKUiazO8QHzXBYCYSLg87eqap3dBvWwudyKiCTSe6bLA,CameIo Anthony,243,I,37,25,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,eo8X2cvi0XwrLiOdYcwYsUz_XgKG8RB87tkc2pTQUmWAzqY,Serin,261,I,44,33,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,jZsz9mXBp83oANeMqc_zpQpQnJa8AYaGsPVEURpBqHRDr-OEiRB4ZAFqTw,Aredbb,310,I,73,55,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,RkOWsAAQZ1C1SHt4Ay89G6ll8R8KVyzFwj3KHG5MyUy5K-w,달인 카직스,274,I,84,67,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,q0fFrc7Ge9IlT_8WqbphodlK-JYkrxj_2Q-1E2vI4SKOE_3TAyafV9OZ-A,123344,268,I,46,34,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,LKOG7yDDwiPwLzx_p3Bb1fG8MPhAP_irE3JuILxwC5MPnoM,Slow start 1,214,I,58,57,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,-NPE5RP5ExwHnAFYzlDJ__XjUmQCzaYlRugdutNW248FPCk,Indexy,117,I,57,54,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,vXYAv8XNeprU9KkVICCegmhrSiWGr4WOs-svVX0-gaqWXNE,강아지 FA,196,I,41,29,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,US8xLdiGgIO9ou-Lb5RRhhzUcDCDeyXNekaneDnRGLqB-J8fV4PD9ZdWDQ,호감 에서 나오다,405,I,68,53,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,kwW6WCFlmXZxMkNAE1VQGh5T1Wv-RHXtUHj3gA9-cFrmQbcAF74LqfMZHw,qweioqwer,241,I,45,39,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,69CJYAxCxoqM43w15hph4u6IdvfP9EdHGYUho1fhrOHhPYzLYYaqtjKMCg,Hierba Mala,246,I,39,21,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,Hbbsa3Rn1vnxZRlWCD0TSeHW8S9Au6klpJpII14jLr2nIBPc6WTpIniQBg,Xianyufanshen,301,I,51,41,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,0eVPwh2ZiNdrbKW9Udx9Zz8_GqDcn-lah2Xj04gJT3m7ciXN_-vLhAGL9Q,zhzj,310,I,40,31,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,49VuaNF3WVxV2w1qYDJbyRopCguXQaYWFUHlM4YxBSfAYlg,Shadow Chloe,310,I,69,48,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,rXdJomFjya0oiYhuXXBW4HntIgZQV0rJOjNEYQ2OCpvjZNs,버기해적단 버기,356,I,62,47,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,f3uWCmoKFS2mVtgLulZL89BlMhbb8-5_A-eDXT6KKnpuyQ,Nierland,321,I,36,14,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,3oGXI8JfHpfJaELaR_ors6_dKjmSlnYe8n_oGV0aAKdHt6A,Yaoyao1013,207,I,48,38,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,bR0q_B2IYhvrIUlgxAm_OwchIFVT1sTN5KSRRbG6uYrhZK0,Crulser,255,I,54,43,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,l7WWYDkNEhN0t8tHOyyXaSoPBHGBqjMPxQ_NsbOdzx2RrqY,fragiIe,274,I,58,44,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,qzCI9Dd62mDlmby67mEZ2EIddaR8L2k6pccdZlfbvpRj62pgV2oiIqy47g,duimianxiaodai,467,I,75,41,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,P6c6UdMZsx2Llu8N1PfEUFXlLbNloUvVCn9-ORAiD78e4Bc,지성0153,211,I,40,21,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,2AQuc10rk58bGdm0LPUF-iSx4QOvLMeZ7i-Tdd79hZVtEyuVTqkPXXtUmg,Dispel haze,427,I,66,48,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,I-myM-3mKdMYcvJhHgpvR-eQzQJh9dqDgyONELbnlAbNhlg,o1dmaybe,232,I,60,46,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,DVN-vqSsquAJRgNWMRi9jzyRO6cqDNd6E5DuMZPoimVFthE,Yorick,333,I,62,56,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,MOK7sBRwMIGa-il-3WoA4FLyxfaAuZNMGqWWBxgJf1YQCg,Z7xZ7,345,I,62,45,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,_-McZg_a5G5Lx1ZoupF8MVzrNkeAnDuKIueURZ1ooGtsUU_UPmFFQsHdjA,마쎄옐로우3미리,285,I,87,73,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,ZkAWcOapEr9xmxYknixkp9S0f4fDYcSSVedXkgivN9J35t8lLCyOwV4zNA,deathh,312,I,49,37,False,False,True,True
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,I7_hkfVBtIMdIgcX13jWRELlfYgB3W6rsFMERi4qahCBRI4,whisper snow,320,I,60,46,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,bmhu5-4ietCPOenUuOBDjGIvNIDYN0jFWIEvX_mYhz9XrR4,FA Jini,195,I,64,64,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,3FrLW8UyKweddHV8pwHYr4qnC2YYWYavdU4jlwM4jcfK4-fC4JbTE6A3WA,꽃바다인질,208,I,40,19,False,False,True,False
+GRANDMASTER,fb70e956-13b0-39b2-a1c7-ddf8ae843fcd,RANKED_SOLO_5x5,Corki's Scouts,TjU5nGKaQxft8-6FR2K6Q5gsZCNI73U6H40bwmW_rN27MZg,Never Stop Me,312,I,77,74,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,KHWKkew5mD4P6zXNdvsCnLVAd6pQYkzHjCogEP3v7HLztgc,thx u sup,1,I,39,31,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QIlixWoAlxNGeJKQyu7KZkdH5xnncybM02P5sn5C79PpMkU,Brrain,6,I,36,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7ZNfV8s1duR7hx8oh4xZbMl1bgwc2tCYIqzeTdLxUFJl7ao,Snow haIation,1,I,40,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,aFeAsV74CddHkGWDK6vME_7aJX0Vjd6FAVctpMKiivEvaZo,FA PanG jin,67,I,39,36,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Mf5rwUOLzwDYFOPfETPypujnn_9n8492Zj_HkX-qmxScKw,Faith1,35,I,48,43,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AVhfZJ_sH1H5qHJS7dFD5VhyureSkkv_H8o-Hp5sfNE0SdLtK33mWtUj0w,덩굴풀,54,I,31,20,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,L9xNKWg_Y_9gfhvg9U_Dyv1mfx9EjzchVxnLTTVLW1Rg118,포퉁이,1,I,24,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,sYzA9EAzDHizjwM7eCRuY2ZcciFe75ld93sRpiGK1qCXUw,단군의청춘부재,88,I,51,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,D96cWQesNqSRMFnu8feFcJBK5Cg71DYUCPWwTKDgwXeNMp8SRltrlOZiMA,tybaby,20,I,35,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hxdkwZVnsoLamVqv-kGYVjwBvDFilZ0jRJseJEitA8tjuYs,레넥톤 장인,256,I,78,65,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,d2l4__U4bNgnZJqBBq8SqEwEG5nfg5ZTqaso6fg2hK6ZxCaJVXPf84BstA,wulongcha,1,I,43,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Ni-P_iFmpydYw7WwREegedJKrLSkgQgHTKEdD0wtTqaIAas,jkjkjkjkk,76,I,49,48,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,q7cjBFCnopXaT_csxWkZynaPkFpOa406fF9LFc2W1ZfuR4E,Cc3cC,71,I,25,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Io4h2et59v7VSkbuaHqgHK0A35VcjDaZWnJpDoxpUdZ9r9w,공해물과백두산,1,I,38,31,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,MLIPRyn1ZIZb9dRg58OqBbBcCp6PjPbYRZpdv7GFcHaFS8g,푹 쉬면서 해요 ,0,I,17,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AiuW1Vk6O1JBUfOriPvKegDeH8uUrHRgVwkmGrtCEREuKlo,코 태,190,I,38,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OjSorfP9OCt9ey2Vk-SHSPhtpX8ctGEkCfpm-XDHCcGWLFE,종글인,99,I,38,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gk3nbAES153oCshHILWaNlhWTZvq8dlwd549zXPTpeeU-d8,leguanxiaozi,0,I,20,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ltSVUSsqWN4k9N3LL8-2cc7KIFPoLcarcZZlk1zB-vyMesVllEOChYKhdA,  xintaifangping,4,I,21,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EOTkzhulrzJvKU1g9tlUATYI6kq16Y-0odGOuhyubxip4g4,fen zhan dao di,10,I,53,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rdbJzcUUfJQG_nHIhVLbPzUSyKnF9IFxTCI-J6_fU8HBbdY,메린이,1,I,37,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,uaOOKCRmq7G70EDvOw1RuHqPfOxd0MjW9iGeFrB1xixw_7Y,죽습호크아이,1,I,48,25,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6iWngAGBByKSP06GUIhd82gKu4D1nHkBtRK7NfvseosBv9Q,fdadffdfa,1,I,23,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,_gnFNAGp9Nb15KpVq-Au-PH1lT1WlZuh_nJDg-fiSfahAoOx56KMn12YFA,Nox808,21,I,55,52,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8ohvjgEBasOd9olYC1WXFjNDcwM5clO0Q1GCqsgz8uGIAgk,aahoy,0,I,36,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HpaRrnkF0IQF8a4JaJuoTpQtfaCNTAZamTm3heOmEvRzk_BdYhadmyRydg,PPhf  023,1,I,27,17,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,w-f_pfRHE-qqbYuM3rAqj0bNCg4uBBVlb1bgRoVFi9qIbJzra9PMyyX9LA,eqq1,21,I,49,42,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,MB4-hnJbPL7by3Rsl9xH6hZ7sRKW7EWbIPK_heCm8MgmHxM,T1 A Panda,99,I,38,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jQzM8Av9nRMC3BEu9gvPX-o6fDs1c-UpJegc-6q6ZHkUzOaXj_GF_WtpOQ,Xbm,51,I,42,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Ks_xohJdc1d6RCsGrmAnjjSrnR8MmB6Q0t43Tn62_nm0-eU,Firefly light,57,I,29,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,N84uXSa_PWFymE-8YBcr0MJljrRWLm0PgS28V9fmZZkBATI,팀개못하면누누함,125,I,28,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,h2-90WQYbnscqBWSSwaalQVx922Hul6Lxj2vqWA__iavwo-jNv87bH18zw,v1nboizzzzzz,1,I,21,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,r-hXMkKYqSKrrtNLz0HfVskRukfPzOXFFvRbBFwbaOBu_evFXPFgFiqIcQ,Daisy thy,1,I,29,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WBHzTMWb8Qakdo13o1tTkWx8aJce_EtpISQl0PKN0dZQ5v5oeIVdVSZBlQ,aaassddffgg,76,I,33,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Pxm1-wS5s4ObkojB6QjmKHmm-TQLW7AD-E2zpFBmm0TzI0ftos9h_z9H-g,Top chord three,26,I,45,41,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,xunaLI3Pv6XG_tzNIB6ghE93L7OLX6qxdiEzR3dXsrifKGQ,펜니르,25,I,26,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,c8vxtZwaoDV891xIqj0y3f880gReexLEwXmj5e_dL2TmKoI,늪에 빠지다1,114,I,24,15,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,--pCGIwn0LpwLGHwC0u2vsM-E8iMgmnoSm87meKnFAx8tkuLCDIwZHK3Hw,SUPG0D 12,133,I,36,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SxzJSsnv92UpNWLvdtXMkkf-VJNWyNW6YNHmBdP-yqLbd_HrXE_iw_ATZw,Shadow Rabblt,31,I,24,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5kXBLtxAnEJUThu2FdORz7pY66dUJkL4k8w3IBtIan_18WI,난 잘수 없다,0,I,33,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ui4xXyIWy_lEK9g0RThwwhbE-7YZpEWC1ph_yCWnzViUnE2D,EDGY About,60,I,25,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Bm75kQAW0zkXLWMbz3Qp2aAbo8NfjWMzkCgknOiH2kr1Pg,패화천,195,I,57,40,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,zCeV1foEb1r37KI5TlO7PvovlK0lNjcIxh5ZiBv5Lkuz9co,좔리다,42,I,24,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,w3Te2TRBQs9mL23hdKi01DHXhue-lPx_08Gv7P2zpUFIw4EkqnrROLf2FQ,wu tiao jian,143,I,57,53,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,TDzVe97Xc0f4CSD_X9LWqWnnEr9oushs61LTxp5qR9BWrx2EVaXyeSwB6A,순뀨박,80,I,56,60,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,f1cgsK75425KmI9vpYboe9Ptf5kGFnvpjd09HlHDrP2rqll7_Ol9CTJn8w,Loyswpx,1,I,24,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,487VDG2LrwWp9e3NfonhfQmC1FELnJhsPgEjJvN01QfsRl_OJkjUDtdOLw,Tengen1,1,I,19,4,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,l1G3gcyqOF1gVYWeM3m6tZulVSkA3Gk5pcewhLdYGC_3oMnsaWQhT5RMZA,sanspareil SV ,100,I,54,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cB3OsPtVw5RoCJSpAmsQkttP6-GIwMoJ7JS-6XYXlv-AXQ,근 두,40,I,31,22,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,P4Qajq6XAHYAShUxNeb5kY85pveTgsjpGxjGFgRFX_0bOkyEhFFlthGmTg,jiangu0qiang,49,I,45,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pGjl8BWZcguCyZ53Nb4xTSr6awCOME2MVZyH5bIQ_VZWo-pcz0zrjUDKDA,야생 들개,59,I,35,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,vLgrZN9sfsnUlA4x0g84sgAwHlCVkLCaotQn1mZg0IokvbY1XjnacyCS-g,첼까지닉변안함,20,I,24,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Lz9J2bb3c4rnMARGdFwaVFKCiY5h9T3dsZWiCmD5vwCqXMYxHCpiA7zzhA,매일보고싶었어,176,I,58,50,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IXXN1hKVkMx7bP12auVPFf4tTWdS_bBj-uetLbz6W-NBckM,슬 믕,1,I,30,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AGX6Hf-bS5JIhYWrsSdZksRNsil8WkzcZy53lBL3TdFlyTew-EEP5mVfeg,Feistyy,0,I,14,10,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,r6x_4QIownAHgFdW61HLYDe5BpUBEw50-HA3tor2dJomHf0,애기공룡 주상,107,I,76,66,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,c2qPEWYrMc4jzFjnWgd-IJb5lKXQjn6_JPIuGRU9094lWmQ,야마이빠이도네,19,I,55,48,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,wPypCJycrE3ZFJ4pitRa2u8ak8JykXFxO1k0uGWfKd9guXQ,C9 Winsome,1,I,30,22,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RAXVKTXTGKMl0ey5SipNgfm2AcoggkHvzLdVpL7GCzhBMzY,어린이정식돈까스,43,I,32,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7PksOaGlVJ1vllCQhWu0GZOD0JO1ucbatptAcYbWL35QuQTPyeOQxgMAxA,L1f,17,I,33,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rSij1INtdpnBg4im69OzDY3r4Fsb9rOuR5aIeBehWh5yYus,뭐야왜저랩,43,I,44,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,lZg_WBgfdN3OEuzjiNJ40fV6hpJqmwL_Fx2tVNk0k1yITXTqdKBZp59ymQ,OIOPOPIUI,21,I,35,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2sBAcxhh5J_5_sPdiESU160Qq6ZA8noIdY9bBQdVOda3H9Y,화려하게 살거야,21,I,29,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-7wKJ0ZnBOb5jT3jdBDZOz5jswcL2IfnydrvkaYEbV-URgQ,3 ap dodge,39,I,34,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Uzvgu6G5I3Gco62qzUNjb1d4BIzwYlGFT0T48W1kQ_Fh_Q,daesam,1,I,49,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IY2Sdf-wf7Nuhl5GbAPZdZvGoxfgG1eGgiHOKXFJvw3mCRk,모모커비,141,I,45,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qWkkwwXpDixIhckwClhFyUfM-Luabv0PdA8Hqy-T7oRVX5Q,lIlllIlllIIIlll,16,I,27,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,DRwhKMfpUHeOx_yXXOhGmRM8GW0tO0AIO8rixNtouiIKnjg,Liiv Howling,24,I,47,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,kim0sg5R5P0Jgx9eH95WQDLQnSsip0Qxe4WnRdGYhnro-0w,meiyou team ,19,I,24,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3xSfW667Pk5A3aFtfczxRKbc4FMIMTnWrlBiytpe5NUPlqhPa45Y4iwzPQ,xinuwuchang,107,I,48,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QgkimLycxmBAPb8x_uk4AlZAlVpmCGOHpxq10RAdKr5VeESw-xa5mgg4Zg,나는수달이좋아,41,I,45,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,kDjeaXEx4-mXkm4OPBTfs5FtBvds-_HBu0eGPmiWe3I6Bg,킬러톱,26,I,49,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,p9sL2hItkbD8jFBptXXScujhsyIsf1gi4rImylf4e9d5328,갈리오 권위자,19,I,29,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,LDVe7oJ2nI4t448d3gSlyYmHXIDXF89-bHCgkVdjUpwkQQ,SnowFlow2r,78,I,46,48,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Aj2Pbz8LvVPj8FituioXY77yyOlO2bpu1jgkS7tG2YBF06k,Back to tomorrow,63,I,67,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,XWubihoAW_HuMCd6BWfAuzMMgYh1E5_LVni7GSODnMIi-rWw1X9NtYLYMA,뉴누기사,32,I,26,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,lRJEZxp5-UxhMPqiVDylVvlv9rcuxkJS8UGmziIRLN88SRAmOy9tD-HNJg,GALIGALI,61,I,29,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OZbMseZkMVSr8j4JJdtp-vUE_B3a2cynWdAu0BjgQu0OQDc,역천괴,83,I,25,10,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jMK7BnIqecVy92SzG2PoAU0uJKCifoezVE0sklFaqeJolQ,땀비몬,0,I,26,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pHVZ9BqpCldoBhxw5S63HG-xt3e91nuS5zI-VSN6pHruRA,사미라의 신,1,I,40,16,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,TEYr_r54_idPDF78TQeyM8vkQFcF2jacu770MzsQEBrgJTs,XuanFengzz,19,I,38,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SctL3wvAb5KhuSSG1SJt2bsK8w8Kr25j5919wo0ZY_JU5G25w3u4eNqCLg,출  진  하  다,145,I,46,36,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,W1Bh7i83Nn-ECQv-e8AC142ZH8dQoiJ7rKFC4ASY6i4Y-WU,ren jian,217,I,54,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,0As0Xlw7knJlX3Ey8zeueTss-qnnuE14ghKgwyD5jXJPZnc,후라뽀노,20,I,37,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,T2HwTlkPUbn9JsKm345vn4xBWZstb5xkb332-uxosDTufoc,쉐도우 호프,27,I,33,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,wPpJ36ezpGKQxBIldSp-H8bISmxBI4evCZFFjTlCRcGHUiIxDZGcUUnFTw,aaasdfg,1,I,20,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,DiPuUUOWaqttyyuqehS4o6dLx8VrGcfQIYMJMhXEzXJE0dwX,정흠이,35,I,60,64,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,VnYV6h3BnAwqsSLaK_P2IjV-sIFp9-SPGcfd361cx-XUXw,환뀨환의머리털,1,I,30,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,FRxZlFszTLyQYvpDi39YjB38Gy7q0tCb-jL5M7NDT9EElZw,impupupu,19,I,27,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EH9vMTGEI4Uo1DklqTeM2IsrNe_Vs-B0RBvIe744C5XPmA,수연 조아,28,I,39,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qmvEzZ4tOanRwpUJwe4Wv-jYjJmqL398CJ4VS-StosE41fQLKqITVRtx8A,manmanO,23,I,19,10,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,aPtR0ncoNlxIkGc5etrkr4sDVylI6w_R_EjZ6sXetF00ayg,SounDA,31,I,44,44,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Z9yKGom3Z33I5tZ3IzMt7Zg6Fw-64KgvHhn60J8Es4DZkIvzAyyPAfb4gg,LSB Prince,99,I,37,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9HhX6B5G1qcxGdpGIuQ7XGB00lStDAJl1n1FKdKTba5vVac,수면소년,66,I,29,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SRymbg4nNTVm4xvGU-VWgI9uQiAm96DMIFKMnmjY1pQERnk42HYqALK9vw,liuxingyu,134,I,31,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ucK6ras4hElg6wFHm4tb_aPNpb5PO_88c7Shl4lyqWk2SsHiCM0aL-gX3A,pingchangxina,177,I,52,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-0QCiUhRawfaw2P_c890pIY8tzkin0RFcJU1NhF0MWaF9Q,조광희,95,I,39,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,sRi4Nb6wxZaKB6xLegKAf-ACG2dlFY39U5yVmCLMC_uYIAg,간절해야 하는 법,1,I,24,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4RhazbDd6pwj-nH2K6FrPp6_lQED07MxiahyTs8_1WykM18,KT 라스칼,37,I,31,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,k_q11UWu9llWK7IR8wdtRu0IQEkNwf40UkBjkGjcUJGM-LM,LSB Kael,25,I,20,15,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SAub-e95CvjJCiSP5xfr-cfe3ecluf2fj8SAus1etDHcwNQ,집갈시간,5,I,35,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,uWNptqt7nfq48J7VPfXvxojg4lIZypOBeGhuCvm0anDiuRyQZvlDiAup-g,xiao ke tang,2,I,33,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EJtvKJQ4TNcPAEhWhbjyBt17xlJ0e53I3jrJCAAaMpCbbzQ,11baby,9,I,20,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QGLvXB9Gsrv-i8aCz6pmKvWMl4wFOPRTgmTifc4HevU1Dl7yMDtTVJOHcg,ichi ni Nana,99,I,58,53,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,sHvTXrtur3TTdyoGsjzvmH5HE1qN_SgqpE_gkaq0vCvCG8IPL564q6TrbA,스테로이드 리신,59,I,51,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cn3AOXjSrznW_W0ADzvk-Xe93iaez5kJZYsuYkzwsLmqpuw,ggggggffggg,23,I,19,10,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,kyEYSyH0r2UWrOQQcMYTAJvEu9_1ekdCDDDENSt-vqJaRdU,미니밍이,1,I,31,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,puBfMnNtAR211ke_hqJV1yksIlnItPwnOSy7oIASAYh7Rxg,ChangmoHyperStar,108,I,36,25,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gauswHUx3MayqZwzXtSISC53jlHe-Rrs7lYhY61ZNFU8Xww,심찬규,4,I,21,13,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rkkU-ZfrCbGlkN9FpdBuvvYmKio0qUqSpVFySBF5jVBfmyA,전민혁,1,I,35,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,X66jW8MQ9B1n4-2eJ7a0dSZfXXr9ES3w4xov3CNyP6E7YWLezFQOwXNT4w,이기다e,1,I,50,46,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,keuCTp_yL6McW0wHc2BmZivKrrZYonS0v-9mkm0J-y-FW4QMHnbh-RNw2A,xiangcai,24,I,37,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,_92yG21ABlRiwolL6J-Myv-2qMfFYLFQTSWhTIuVQzmD4Lw,나는선봉장,61,I,40,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IJEnb52GdNnTKujhdXzMLrmDP8R2ruGI7_iYeZ702UzJfw,Im모탈,1,I,40,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IzenYbeJHeCXsnmWLwsPXM0AzxM9JSNbRNZ3ugqniDPdxQ,Heart,179,I,39,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fqI03o21hGjrtwgD5nOyLCppjh6GboHQtuWK8J6oquDtLla2_M2wiXrzxg,77GameZting,19,I,75,68,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,1JiMlwelrwIaDMskPdVzLGZat0ojEJsUMmuK1sdmuyTbs9tJqEvOAyuBiw,애기야 야옹해봐,20,I,42,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Crp_-gyEO_9ReKey5fbXPpIhJBtQVB2b_h6RDG9mW8rDEqmWam-OpVyCfw,대빵이 출격,0,I,20,13,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,G8Y-U00ebdCbcS9IWKG7yadOEhD16DEl3_UikNHQWL6Zww,메론맛콧물,5,I,27,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,DUMBahZWoOFO5G3CCzJHOVWmkirtS1lGj8UOobzPWHtvDhSVG8OJkkCYGQ,lztxljjianiaijia,180,I,43,33,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RwexssOXbwc2SUW6WnbX-vAKkAtUsZE2B55Fyxg8Rt_A5UI,PureLlne,1,I,26,19,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RsOiFPDlCJSD8qIBTMChQpHRVNWfv_8K94yukb63diI6VA4,YouTube 짝강,99,I,42,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,vQCpx5Qz0rFZRgYwsIbCwM0eNtacFV5Tu3LAghh9G-7AdFFtND8A6li2qg,버프줘바,1,I,23,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,913Vu5uTWFxWZmN8M2551WT6VKbybe0qW8bIQbm-FmyGLAlwUBnwh_hDAA,Iove poppy,155,I,39,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3n5_Iij7x1bExbB1KI5yp7CQsGHo50_lKras-gsjuQs0Rn942B9Ctbx_Ug,eszqscwsx,28,I,36,35,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,iO-J138G8n2EMDOUYu1v0XnvFPi1j36jbY_P_D6A_dloQ8Hdd49-saJmdQ,lure heart,12,I,55,48,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pQSK42I20dWvoK6_EZvmJqGINIhtsp2PxUSki2cwlitkozI,숨바꼭질,142,I,27,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RiZjPnq-fATk7vkmujtpGPoPWdYui82uJH6SKqtudCdjK6g,Re life1,0,I,36,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HKXkUFCseVr6kaNbb_MalTu_pqYaLMkHFPzVcR0CTOBoWQw,Samver,229,I,58,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QNXi0dcEQjWQB6qykMgAVFTIeasQUs8U8FFJCmqK4cffuYuiZJkZG9X-HA,143167947547,80,I,23,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yvkNEkc9picY_WOZ-jlhtlqx3AjNtoiDd0H6K42C-vR8phE,6두콩,40,I,21,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,UyC05wGmfUi5BrHzOc7BbJInlFgIH-_-0KPqgjml0wKY6TE,Uneasy12,116,I,48,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,sxVPSMnCg1BjFGHUJ8iI54z9k9FlMRGFqLbxQZpbIPTmVg,카오스는해봤냐,1,I,61,56,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,n-w-VcxoXMV-eKUVBdWTei1J0hulYWpZNiPpMNLV5oUwmHNiXD2Kmh91PA,Mon seul amour,77,I,23,11,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,oSdcTk_BH-tmFaBujDkqepU8fLifM9rdOKF3f9WCyuQVGiMN323ausZW4w,쇼메보다카타잘함,26,I,44,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SHNs60C3lPJt0cLAnowWNo0Y9jzw_mNbC0Py50OUM8b4hBVoUL9Sm9oCCg,정글오공 김휘인,18,I,62,52,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6DCheWEl-TNxBaaECz2AL9MnkfyAasXg5cVfDRE_bHTGFXc,feviknight,1,I,26,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,PUl7uyBq4lUhwjyOHix0SLuPtuVdlNfLJuzXwbBR-bTf9xio,1년은730일,72,I,26,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IuuisfDXBjej_5ylci-CinYGFvDuOmrPCfk-QBlTFoTRzc8MA2d3RdClJA,불운소년,183,I,38,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3AerW-bpMgO0ih95Kuw5yS4Zmip7bWxJw62o2UNjHOnYI1MWHbqe7_q53w,Anger king,40,I,46,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2t1BvcOPnYqYZyJ6DP-pHbLipa-0M_4U7wRWT6Dl1AYDf6td,질 듯,0,I,47,42,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dkh4BawtXiR-wqC8OC_EZiYIFoo-XoaUgM8smQ8BmPY6RYM,룰루랄라룰루랄리,1,I,27,18,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Uoe587g7_uetetNphtTg9vinJkpcnZQoC9SylFnLg8JmLBU,07년생 티모장인,60,I,30,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hsPcv4za0aDWdg_-qzxFsok-l0yG2kACsl0aez050Q6FoQsOFll9PQzoMQ,Top clown,134,I,43,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Qq0z1Df_t-7EhODUCRLR6IVNz7JirzZM-CUR45uiS-gTNYM,백상휘,19,I,39,32,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3yfVeSbeuh5U-yBtprGPd_TgokPBRBLVmTwZ3DlvNAXsF38kz7atzuYJiw,More of you,98,I,42,35,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8-yXF5MSEF2n6L-zI7WWgrA8pGjS8pIGAx8y8rXB49rMV3kJqeSBEyj80g,Emilia half elf,58,I,35,22,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7hEoIvKq1WvoSyEJxQ9QiYwaUMm6GoY-lxdTh-L_q9bZWS3zF7E8od-oaw,Not Friends,0,I,39,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,peI-4fTH2wcyVz82Iv8YACFjmxLXKsZxOjLZiVw8VhLlevY,노런색,171,I,48,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Vaba5ZLsP18pxcw1TCLtFwAqvUbU32Y82s4T7j-uAPh2Fck, 이성조,73,I,23,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Nm7SB9CusWeVm_vihVLUfeWY9UgS1TjLaHw27aY_TSRzm3I,아아스크림,94,I,32,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8HL9GSEWdDdKZk5seDQY7an0ElCKj1shwDS8iQA-dy9GfUK6YEEj6jCseQ,좋아하는 스티치,0,I,36,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,a_aW_pkd7rOM_MrQrGVtpiqHdOl4Ap6YgxAO1AU9Thc2rH4,댕실댕실이,99,I,71,61,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ONLSwrT9JNSLgr64v2wnKosskmA8S5jmVfx0Cyo3eWTqY-aQ7noC5b2YBg,Rei ive,46,I,27,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,r3yAiIJArx1LbtQmyWEflOP8YYi-QJYepWoYKQ6Jr79Tqzw1QHg61_lAqQ,wuyongdabang,42,I,49,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-1DsuhJok_UDGSb02OhaUEALnz5mx-mv8omsBRy9PKSXMkI,메건팍,59,I,32,25,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,STMzTUgu_SYQig1q8WU2cuyrSQaONem52mz4YwYfSn-J7jU,지으자닉네임,87,I,57,54,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,F3uSNOakdHawa1IaNxeNBGJUNJu7rQ-k8N2BHrMFW9kH26E,Seosl,55,I,62,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hKI98YEg7orJ04YEDI8Ys9YeXk4jHFq9VOL-NU7pzD2x9A,ZacSUN,1,I,28,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2tspaEup2WgbYmf7gcf1LLk5hRXwkLutqNfj-ybPhsNroz4d,평범한 숟가락,1,I,36,28,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,W2d9XO20Mu4hkHHXkORjtRDlPOOzlz_TBb8pOFuwlCCX8A,엄청나대단해,48,I,26,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9aCuIolEoiVLfjAfZ81gHVuEYhb-4R2yrTccTr_OnKPXq4o,망나니쌍벌,25,I,38,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SSU5DAhSYLnathsU3WOWw4PmVo9fl9DQs0LWHOEyZTWH42kRcYME2szeqg,WDNNNDT,0,I,19,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mb-ZIuoLmq7r3CBOXXrjsxaVIAv35RdymLRRTs9b7n7wFxZ-,Aileri,1,I,22,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,y01xRGRTd7ndDPhUMUXk_eNzVSI3FoF0yJbfqOuOE341UlU,Chain of light,192,I,69,56,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,xEKs-EHJFpIGdD4wz72Ls2RnX94MIv4kpN0b4drFu91j5A,elole,193,I,38,27,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,PXFS0bvVTSpzHfzw36ASzv9VFcinTAprvdToas_Rl2yHRmU,sldjsm,117,I,39,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2nhgj7-dQONMKNDssbi67tiGHsGa9fyjSyrkgedZVyKuKpDwpraUQ_z4aw,엉뚱하다q,82,I,36,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qoiJjzKvg7LgX88tYjmVc2pEEMtiZ-Fi8cjRfZhG5p49nwzy9fP885hZKA,날 누가 먹을건대,1,I,43,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gCWiW5yMjNP_733tBmEJQ4q5qsrMGeJiRR27BK4kgdjRAno,baiye,90,I,35,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rqW7PMyo3hWecCUpiQgog_WgApaxLvFKYCJzPlC_wLMvUas,Waaaa SolChan,55,I,32,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4qod1Np7ArX7AsI6SxB6H4dCWlP_HEBgpDx6ti6KdCp2RJI,Tiger Den,1,I,19,4,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Mq1EczTqkQjJfHKAFkxCQRw_5vQq1a7n8kwnu5Y0gFsOKA,경고했을 텐데,20,I,53,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,FEGTdfi343nMv40-G3GXAzrSE5V7isWLZBmf34p4H97YmlAPDGtrWh8dXQ,보스짱구1,21,I,57,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6rUO12EqMw0zoK_8tO7CnuWhYZktGQlET2kKvsgiQoPXkms,ndbb,98,I,35,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5uOa6-om_JerhszjGGE5tVHWLZUbAKC2azKcz3cNVsntYvs,희포리,46,I,33,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,nKJhs4fu4BxkYgyVQngf5O-csFNX55YI4N5y8XRtTUqendE,리브 엔비,1,I,19,14,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,b8TLX6Xy1SoZFKt0yvVhYgGGkRdsb8hfbzwjUZSgM607TNV_wdPgOi20aQ,ZhengYizhiqiang,61,I,45,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jEnoJ5U-q6nPzN-UiKzMxEbcteTJc6H-5FjQheKQ2Ww8w0w,아이린,35,I,24,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6ayrFR39dvClJm8KzH8IFAfjYtKKPSJGjY70BNO7XgZi-hf-CyOY5W2G5w,1vsAll,39,I,46,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,kxQDVhFOlE-exW7b-7kp25ubeszUonThKShWinr_LIhvbRAt,T1 Smash1,118,I,27,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,138yq61UO6HlzKAKqj6VLALI_qiarcEPmu5_6vC9x5nlA3M,이도류,159,I,33,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IEMjyE7OgYyeB-jqcKhRFSgg7ToyBOZDzLJXDT1mMgnowcM,yyzx,102,I,28,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QfKv2xXDZEly8eE8IuqAZxk9-UZx1t9PtmMeNazBlx6ywqAZtFCAiMT34Q,JUNGIE GOD 12,130,I,57,45,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,VOoITwo-BQQBgKK14x5EEri2dOScIVh_YFZkRf1MJ86hjKE,Moo1,1,I,56,54,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,R1GF-N5uVvzFshdsdf7PLddTojgJQoUcu395X51Yl3OB5j6rTaY8BMy0Lg,ClearLove9,206,I,73,58,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,NQ4jtlSawA74SRoby0SelzO0pdnQFu_4MyClvwGrhQKYFCI,동냥아치,40,I,33,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,xYPIduYMjGtSCDiXzVdkI1NB6BH0PsUUxw0b5m_NSk9gl6Z-xBk0rm_kNQ,s2j1,0,I,20,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,o89DXBRM8HkiOGOdf_D0xgiGSwWjq_tuMtw4_XlhET7tyGXkbclpaHvMwg,뭐하고싶어요,28,I,31,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pmboV_fd9OLmTRQ3DtwgwDU_oxT8MP3gAWeyUmMBZOK1Pw,Wilder,6,I,47,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,oGXQfA79e3gwGK0eg81dO7dP51DFkQORfsp4JSzRbUaWIwQ,뽀삐의 피지컬,19,I,30,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,l1qtGxTlkDMbQ4lHseau7bigvHPqNmu5QwET16WMSEoAjmA,wo ai ni gyu ri,142,I,63,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EGQSn-uFpEL1SpekzroYP57TrC3vYTb3EZ6_HUIlZxCV3Rk-zpCl41E1tA,KEEP DOlNG,0,I,47,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,bcggOkWHMcFQ66bt5zNhK_vfjbDgfhpq2VKMWMRtefHs7_o,도구는 툴툴,37,I,44,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HwFKDvOOnWO4s-czDPdBsDwpFu4r7ejSEfg8JIMaTUwQA10,열정사랑근성독기,119,I,44,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yRP_HF0e6JQaVjTDc3KWsxCBacg7I0ZgSakOnHVhX7hYD7jB,가민준,47,I,18,10,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,x5W5XLiT3dVOzSUkByWVD310w1m54PHSEY-CFxRKL-qJ2g,Uarein,96,I,37,31,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,a5I0wBuBmgzmug0Lw_pciBIy2TrRaNoZ8Mpg1NAGA7R1hVysJaQSvv795g,TI mo feng,73,I,34,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,n9UpEwsN3wvnBzZyhT9kOGdmsedavAFX-H30O2ZShM9vC-8,cvMex,36,I,62,53,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4viRvY94E6pcQDRjFray2wx-EKSi0kPATVno5qY-F47Ib2-HEgI7omJb1Q,123241198321,18,I,44,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,DNRJQ4Vn1kFQ7VrIRvtHR72rQHkGEFQGQFo9af2xZ3Zew48,XiaoHuaSheng7,95,I,27,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ksqfTR_qv-yUd7e26S9XQz7CHnVeF_HCjgkp2X7kSWj_u4I,그대와둘이서,2,I,40,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mNNMQIPuUowFGz7xFqQy8dsJCdaZ-97EsW93kKJHgvneXm0,개미1,44,I,71,62,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RPrXvpKsTBtooxeNmY-Y_ACYURfaSI-cvV7DTIp8pDRZWnk,익창 0호,1,I,46,39,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ZMqWVBhwVgp5GE7BsJCYqqYSkKCpLE9aK5vBlJqLQUkJ6hjsKRtmKDhwcQ,진심으로 대하다,1,I,35,31,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,D_4BOU4E-vGsnTZiexq0QsJNHGLRpnOO5Lf4AUnxb7MQh6E,쇼쵸표여,132,I,81,61,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RhfGa6EwCBEFA-iaIsKSCuNn-sgJ4bGjJfawZEEd_HYGDFdMf4OhmSNKWA,AAABBBCCC 3,96,I,54,45,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,FMc3sfQuYmHfpDMgc13SayIqP86Aj0VcUNG6dqmgkUbzWv0n092oESRxJQ,tao tian zhi shi,55,I,42,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,l1s71B72_x_RzynvNdFALIv8dfO4BI1HfKQNEUA8EqObiQ,엉덩국 갱승제로,0,I,36,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,1Js2Dvr92ZHPzUOIDkPB88yRRymG1YoDUknWw3Wz9ofp3A,호성이,14,I,25,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ho5_S5QCG2xy6clm-XXBhJoWpkEuzTmzDiSa8ce8jlJc65Li_EgqLiZV7A,Nenomius,123,I,68,59,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RXTR9NcWNs-m2v0PxRAVDzocIEkqu6lHwf3CC3TGaBGriiQ,almond bon bon,61,I,27,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,iaZc4h5X-hCvFLaP3cmt0PcDwHmEWnNCgPX_Z30dAPMrerE,포근함,0,I,51,44,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cxR3DyARRBRVqqAwKArs7jwGuyazJ9gaodf9IycfKoBFDot5,thx for all,1,I,23,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,KxGJ-0SEvEQljxN4jmD8UL0nbpsllb4BJU03-m45hkwWr20,물방울석입,0,I,21,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,N2KPcrdm6Sqn4AKtHNvUUQsuE6tKPEKPbYwVXCEQua32QBzw1Y0Miqxyrw,LSB Courage,1,I,42,36,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,UzJd97jkSvafVIC8FK-UKMHuzlORAroUgnCqsSf6sslYwz5kU2R2yDoZEg,dangyadangyadang,1,I,43,44,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AUnaFDoutmNOiVLYen8lJteSGeXBS1EVk07aVwbAG9seAW8-XWwtm6bKXw,Doujbbiewanle,0,I,29,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6N_34jk0zeGrq75h1kyx4H_d5eYf_fRFwyB9VZea7lgsX-k,미스포츈외길인생,1,I,68,70,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4a4AyabP1wyyvh515I_SOfFLMSXWcNye0gPLcQE28wBaCPHf,정점의 피지컬,45,I,25,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,X1Ckd1cLHPFOVOJrILbV6l6fE3_sZW8ju0HWJtZ9zVZr9QU,펭귄빙산추락,129,I,36,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9MZClF3I0ZfcFuDnwPC2I2kiu6yX-6Pu82sO0MYQB4l_EzQ,cxybaby,99,I,35,33,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,chj1M3pFoQyBRni0pfVbR-uwRr3Y4h1KruQmeolCEo2fx74,의성 여포,104,I,30,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ZQh2m5h9HkvdEywdGN9qfu2Qt9j-llzVnRwCjBKTpA6Q5Le3f4dJRo7mLg,Palette all,28,I,62,59,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5tWPXPD9YFtVEgQ16nH1TcqguNxhhnYhtApDDRm44BqnQgw,Enosh3,98,I,50,43,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RobXM64drefSIWhdI11adRuTV43Hjasaz1TKuhiMEaMqDrs,UijU,128,I,30,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ZSwPqF2U6swFQwGxPkdEf5-_JqlxWkz5WoLtSM6HF20ydLE,DK Od eye,67,I,37,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,sKT0OWlaWvoUdG48eM3JBktytLY3ao4Ksm8wnQUsBFETqvk,Quad,90,I,42,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8aK0-QtqNuxNp6dml-c5B0VRktnRgMX77tIEQUUR25xRWqgo7h1BA2MdEw,잘해지면돌아올게,50,I,20,11,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,abaywyS8yVLe66Fh1N8xt7NxVV5mWiuJl4JHA4TcDPr7Wv4510Py8THgpg,wo bu hui Hanyu,1,I,57,51,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hxw-48MT8Tf4WEFyFmGPZdScbhW6uBOooAawgNZfEYgYj8pvGX-WIYoFzQ,Hegforelly,117,I,33,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,PAp8SMDHz9S59ZgpDAd2WFquuIHpZANkNDfQyU-0DN1ABlY8fPXvyzsilA,그레픽,3,I,24,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,uguuoooLoMN24jL6VZO6PJOtKBx3QrYIdy6vC288HcNPL_rqRTR0wZ5Vqw,ra66it,87,I,40,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3Y7YaM88RWXSxLO3CCYPAjHBB0cz7D6-_EX2g6UPy471WUE,sksqnf,47,I,31,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ARBj4p-6Co7Shv8jwoa-1DDQqPXk1h-CW123Qt7droxiy1w,타 잔,118,I,32,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SY2zLd155uEFDoxy0jr2nZ-0hwCx6gA2cyzbiSrim6o5ig,김말국 bb,43,I,57,46,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,KhU80OsEHhcyQPjUm9_6z8gQlxGBVJyRsHyDhDuVl0owFA,DOK SA,29,I,42,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dzCbplWJQAgmsUAcxlTU9106ywFNr__41PMGI5EA49Q5WQ,안 헌,1,I,64,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,bdeoyLkjKpj4L5hixGYLHvP_OaW7vkyXf_6q9nEQ7y-kqyU,기울어진 협꼭,0,I,26,13,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HZybZ3dRR40j5zQMzDxyuGi2iKXHqSrRi9XBaLi0wPZfJA,요렇게이렇게,1,I,45,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cXdBa6JgOjuDldNNe-GNY_400Ugy6iNkX7aFcKlgi_s2NOI,Shan Lan,29,I,25,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,TozRXc3TBPFZ7IFbH6oTX5Mj3SfVDie7Jv-xwNEhcvY4RZw,viper3,0,I,22,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RTFNqbcsAtNfdYEjKES1A9NHq5SAKyzQ81zNF-4p7NoQTmY,duibuqiman,90,I,28,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yGE3u2O8UxcT3s9v6IGWvt7FLSQBT6iJfW-BvhyEYiBKl0AlHz-MafdS9A,1달안에챌린저,1,I,24,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,y6cv1gEbShCXXg-2h-bDzWkwaVgavc7Ju3wtYRVdy7YUoFtoXFu2kLbOew,yundingzuanyi,111,I,40,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fmmCQyuKsQaBugxBf5qDt-iRjq6Z2O-bsE3V0QiqPt7T72I,쭌 베,98,I,28,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,_XytviOdmNVEUbKaLlXjLscZqe0X4cBry5LUcF9Qlw-DF6Y,JUGKlNG,56,I,21,13,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2X6Ahof6PWkhKiAOTAHN0GJqyqTCUGZPFzCZu2QNjQYmC68,거부합니다,106,I,46,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qqEGLzMB8U0YTt-F2z30VeXBkMtVV5qvtv2OliBpCXE1nVWB7K_tUKO38w,05 11 20,0,I,50,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,PW09YSQaojHd86kQGk7ruJwaZMOmJj-Md7QdA7ROkUCR0wBJrZYvwMm0MQ,zhenderlp,25,I,32,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4dLGm5yDBt9S59cVwkd9wwz3wQHue4tVJ8xFYSHAa9LEEC0jVrCLivp9Uw,유튜브 야망,25,I,23,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,UTHgKbNNpxz9uOwgZveD0vbcVK5ha1f5PqFnTONf9vETyA,건대부고,24,I,34,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AyxJFvJ0M98JY6nbogQksG7Vx30lmRYIDiwb4s3wVhxoWNI,디알엑스 태윤,19,I,38,46,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OpwinAfgVAwfjHt9AsSlQMEcEHBu0YpsuYyIzN90y9UyWJjS7BW_q8hRag,pg on1,117,I,55,45,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,CWOa2nsXFdb4iVgG2jA0R4yfK2eYT1mysfoFybBL1wKiEP-_QJBvRm7Mzw,구글롤플릭스검색,71,I,20,10,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,c91IG4eKQN03Js1wwZDSsSoePqqmfKbDrv5iFMZ6jGKTt-xA,Gen G VVinner,1,I,18,11,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,I4DhT69CeXdXFH9Y1oi4GzMTB_hxrTu68on2wHDvd0ywV1HeCUklR8TKUA,skglhdhkdhmn,87,I,60,56,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,XzXWPuw665VT57A8S4YbNk19KBNug2JIGfslNBIt9SmBhg,NekoL,150,I,37,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,YKeaQa5skViGSO082rzwixD_g3cUo415-Ofwo1SWSDbn-YA,DRX Bleed ,109,I,32,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,tIf_8Os-oqgvumjyWSc6lI0f67Sb32YIzSOP6XKlNRt8_Brk_P_-OzQAUg,번역하다1,1,I,48,41,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dfb_YYnK8QTcuPlRXvYlxu3jZ69J_4tjEJ19x23Wv3mcjZU,다없수질,41,I,30,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9Z4SXZ6wjAS4uVvK_itmp1tzXbfjrfYvgkvEZACCD9XNQymbyPpeeCkdSA,02 프로G망생,70,I,48,44,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hFLK9Etrxo2yDyYt-bMBLxHLc2hBlXs5lWO3Xdl1C0xlzk19LAQWp9VaxQ,일산전영찬,128,I,35,27,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,W_RAC6XXRE0MDFnIuEqZc0lH0a4L54xY_dBVunbK4bw2c2klf1b63nAzDA,매서운 할매손,52,I,34,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Oiy8DmgOw54UeOh5f791y5ohv9Zmi1x6GniKVCgRBpICUCI,vvake up,19,I,32,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,TvmjwDpcYPeGkr6F-nAq0GEkDwcdd_4fjJBxudLxsVa2XkBUNKlfhTQxoA,SUPGOD 12,1,I,26,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-QrIgpSiMqnAxhaZIKOC5Tl8Y3bLnkUXHa2z3f2p-imsew,Selfishhh,1,I,25,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5TXrPHs-A9wvV8o31637GBlCRd6lzU7Miym6HuTWSmIAeGmjCXA49uBHMQ,zzm7,95,I,61,61,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Ce0AVznmTtE-FHK33V4_9vXCfpAlFXX7gDcfPuH_CykryJg,Heru821,0,I,54,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dSdBFLDMkwQmTrmSvN1siV_q1lm6XwTLOn08zRS7S3EWWFoV_sHSJ09E9A,love again1,33,I,38,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RbyKOKT-L_MyeVzia1zBKw9Mn41K9NDCCJExHR-Rda2OmGg,ziyou,228,I,35,25,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ULvTneX0PW-Fj5yXZVwu91gIPIG_cUh7f5w_qOM2baZEm7xiaIve3eBm5w,몽대지 fan,0,I,39,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6FPndB0I06hd2eEZw0oRj63vZ2B1RNpRNlYMwF9pHhV4L6c,IIrrooGG,81,I,37,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,P1oT2AooqyFhhFV0LffI5KI5F0fA64vYfyyXAf8Na0QuEgj4CNfj0OF2bQ,시간이 얼마 안,154,I,63,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-N_LEjc5SjBcqZoSa7kBvc4ngdIOH_27_wKLgzsLwXwGB1Q,NoJlhye,97,I,37,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,LY7PWrHOjRrVEcsBL7ywCQ8RvSQSuRYWMHfXY4ZJAeZdKtA,어리고싶다,66,I,29,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,z44rA_ys6elbndRbOQmNPBQZXN215GgG5SSwpw612wcmPhcZRSWb2ZVnaw,sssay,7,I,18,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,f1hjh7JVeC4NbwHmKtTNUbisJdT7YSaGb0U5BmL8nb5rGCjduhX2w4ZmCg,HLE Lure1,169,I,59,55,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,NDkXfBWQiVWC_BFjda9v4Sm2VZs96BGEoVPjrpxGYEemY54,Chancedong,104,I,45,48,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WR-t1tQ5wVC002So4CHlUwFea6AtUOAY8m9cupdQ7EhiPUxle3P7VXbZAg,qqqwwwaaar,0,I,33,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,34J8YNhq4bc1WVsBiD6lzKSOf_XovuaUYc1ljqF1frC4n6M,YAE M1KO,60,I,27,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,azDstexW9LKq8bBwv-LcS_EEiaRLhnkKRKON3REY52kpsyKUrqjUYU9AOQ,죠랄죠랄죠랄해,1,I,35,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,wKF-6z652Gs2CO38eUqGTpwWF8p_CH8kf9V0calJoQDiat8,너의 친구,124,I,39,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fcsSUjrbIw1cgHjCZjgardWCssD0Rt5PqLmVCZp1TerldDI,BT Beard,167,I,63,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,02-ZoAhthi702zSuDeaqe5i0uSEoAIlZsueWj4YcD0kJKQA,카이젤릭,20,I,42,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,F68SpvZjubMMXZLjx7aawM55Iz7KPa5Ux4SR0tLZzDXQnTY,급식 졸업 미드,42,I,28,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dzzuzod5puDCTw5r1_7LnHzTt0n1C6U-rL5XmTT-s0LS-2VpbeP6k6JtKA,Zap3,57,I,47,43,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,p2H-WQB61jiwjZCUT-LqvhGIYT_LCcXf2x_8JhVl27ISpKc,Slayerz1,1,I,21,7,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QgcjskBIf93sQBvAZ0o9xi1P4DrTTot9CnZ6xi-PASUgenM,lichungang yyds,0,I,34,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8nvp0lDMd8dA6rpe3RDEj2Yb-qThGUqzHMP6YO0zy_WOkWg,끝난 이야기,1,I,55,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Giig7-GAdF2MNJsKctxb5az1cfa-aUYZa5TfjnxQiKPI7zbgjfAAw-fl5Q,저MMR고실력자,122,I,42,35,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2oJdkQspvIwXnlyoWkdFnoCDRC0S8NtKPnNYxiyO3oHlNEQwoevy4pVAXw,저아니 우결,73,I,49,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hjSvvVGAlEh8bSZ3camjcQLXmnQR957drpUso5m39hhsc_4,NS Calix,68,I,68,67,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6riBRMKUvdXZjoiEWxw2eQzQ238cxEsZXDRqRzuKnFRsE4A,jiaojiao3,115,I,45,31,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-RPcSv6rTnGnwJq--tEPJH4p0CI__tIkmhc20AhebAEX2znAhZ-w3HcSIg,me love 369,65,I,31,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fBTjxRasLFTWhElFvlRfqTQA4uoJZzrn_ZxgE3t_XAqgqqc,Want LPL LCK,1,I,57,52,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HxGWGBiHbG3vQEtCwY95C35-AKqgRpMQnRXex2Jd9aReRiI,yukinoo,1,I,44,36,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,KmeZUoAtCrYBptWsjgf3nhXtMzugrmJBtYJEeW84IPzmXKzfi9V8JLG2BA,LAST 1 Life,1,I,80,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,YMEs5IVab_p1ajesc4fSeOeUvjFzmIbUuorWG5stezjPuA,20050916,1,I,24,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WDCWPOenQjAvWbdXhp5NI5W-FqAhln0Crrck_75O-zmguNo,정현심,35,I,34,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ZyDfzogmL-Ner4rAo6zuMq10oGkESyMJDmyBCHNSMCe2N_EGWHn5b8B0VA,xiao bu dong 12,1,I,61,53,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,G9MqUZKOoNjjffgsj-9UN43ho6y3Nr7wy1eZvuzdBCw2uoU,실수는실력,45,I,25,14,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SxTGPRuPPvVtT_NIsGIZj-15N2VBLCT9qrQkMj_KRIfpzu_e7luvwGm6Pg,김잡초,68,I,43,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,CN9fAwgUfyZgruikP9KnabuU6L3jdnjR9Wi-XF289sQJmvI,제드빡고수,60,I,25,18,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fvuexkc55uVRUXUQFdzAIaVlcGP48hSvulgtQDThe11EjA,X5 veteran,74,I,52,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2F1m_DTNusz7EqDPk1Lb4D0aMvI1IMlK2VOI6ze5J7KgVp1lPYN1AXSYzA,oooovooooo,44,I,27,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,lRe3wUDUw7BNtvu03To-vJemDW0hDFhxo0fbYr5Sjirn59M,규 보 리,1,I,40,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QYfQxPA7KZ4CM51xVfbVxYZjUWFhoO0ltbvg2Dpk-B9XfA,부들바들보들바드,54,I,37,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6LYhznQ-R5Na84l3DMr5ZMDSr02kijZHV9W8b2HI3HvDiT8,티원 탑,81,I,27,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,vce8efp9szoimFfdMAtmxKdHB2fry8TcR9hhMsOYfxJcfHI,Eslup,123,I,26,14,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,oyncOv-3nksMYb_LYlglS_Q3hmjauTneQ2Z-sVm4E8UoW1c,그땐 그저 좋았다,1,I,24,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,g-qW1fC2acaUEOcb7dNSKHnQX6Y9aT9P-QIzX3bZ18ZDDmQ,Youtube heeseong,10,I,29,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gLlLbnfE7x8I21716JRByKvrmc4aojZTyGn_LNRChOZ0cvFlGBJrqwL3lA,21year0120,45,I,34,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,FfVoEMNmeJGfUJuBa_Jt3BYhhsSHTPWnWW9WyhNaqbTCWm9ksBzmIkqWBA,zhong men dui ju,113,I,22,13,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,YTD8XGE8g_g3rO_G8YuPRHkWNQqBqXp6NPAl9v1JLkgu-e2e,마스터 이,42,I,27,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ljgGxWvFcb_3TqnKb-AyOprIKJxwTbcApb5l2TyEDHl7jDg,우주최강민경준,20,I,55,41,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qwHN5fYw1YJnwulbXUAOEWwKaGUSzuzKfnFyeMYKSK1prCk,대 제라스 선봉장,77,I,28,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,tQUQueVWgVy6uAQDbTFFcv1rRI5ooiv1sZYEuqmkEnUrHYTmVlgo-rX4vw,zhuan yan,96,I,59,53,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2YG72AZ1_gfJwcyhp8lEdaRRPfmnC3JzidqQFypdnvaVRtkbvh2JFoosWg,Ke xi mei ru guo,116,I,58,55,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rQUYhCkrS-WfOfh21STxYM3yZI9EN6sqWs_8oY7MvadWFxs,afdasfclgxsmf,0,I,52,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,250XADs7K9XABrPGG-UIpHkGJrcAa6Mz9bpmuA7Tzn9cwRCYyuS5uWh8hA,Jg Gaper,1,I,37,35,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,F5gBfC6nYoKBnRlxOn3aiOQCS4zKLzTrOB7qRsjYprw1Pco,공부하기시러요,1,I,46,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,F07BPNaBCavXiQU9n_Tjr9OMfMFTFijkFxaLXnyNylsjKUA,HLE Cracker,58,I,35,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Jf4ghzFRwZox8BGLGaCxbqKuL1hARjsRTA7ELAKAhakZJcsOjhRQbq_CtQ,luxiaofeng,152,I,53,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,BCslBH62zx5yFFSjoJPo6mG2RyKyEm_rSPJzByOiUuaQRFU,하얗고예쁨,36,I,56,53,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,JtnSJpID9eKF3aj3PfnxpacnneeYy7q3JOI1hrGCoQTm7aI08fee9Qtu_A,JUG242SH,65,I,38,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,NcpaEQpOPzMqdgwN_p0CyT33cuvjxXBXUfhIaKY2bCZnTzc,렐복치,108,I,54,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ncueLsybU9w57mLlXL1PvFDMEaMhsADA5SBEk4uBtZPPDycmIWNuk9cpyg,돌진돌진,26,I,33,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,f-ngh4uF1lVZgbm5Vp67YfVYaXCHp4hFuYADah8qVOWjYT0,나는개선할것이다,126,I,59,55,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3TH8vpKoFhvlwwgntyd3DopwY-utMJXzYUAF7v5CMKynr7g,PPPPPPPPao,0,I,30,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,X_lMKTCdXg_74yGIOepEiqMCOPJtC58YOoa375zIwhf8_nk,레무링,1,I,17,7,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,kLA9kLD2jdHeIN0IpNSKD-MsPzS71GG8cA6KCWnQcElai2yKqWi3JJrehw,momojiji,19,I,21,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7ADBhWUpwvfR4STqXC9PTiHN62ZwLR5cbvuFGaImmHVl-a4,qazesce,54,I,32,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,P2NK6iVITCg2qYCDHfyffar1Sr00AZMT2E51Pd5HGBXHvaqzN4nDyXXsVg,Drizzle1,20,I,37,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HyxEKL7gxKDnh9Om_q0O-3qtNi2jZEVPL-MdfV1wkFHUdR7L5NCiAHzeqQ,huangqing,0,I,26,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2AnmVe8u35aIgsBifkvJ-EDWKK1Req8C6A8zOz1Qd9uNZNxg,Afreeca 말레맨,16,I,37,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,vZfuWxc0x2cjRdRuiyHeAqCkrRBawKNuYyOAPSWazGcaow,비인기비제이,1,I,37,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,q1wBmrOCKtS20ZDzhL7AhXDqxZLbRkyVER1_t1cGFVatgN4,T1 Gumayusi,130,I,27,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8FiBbS9P83ET60zqMXIIoAn40rWOMFmynILTO8vQowVDRhEARiuYFlKJig,war3 RPG player,99,I,34,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,meBE8MpvihWPxHUtrpwrf2jtMBVp9KDPQilwSrka1cXZ364AcgBfNMR_eg,xihuanyouyou,8,I,34,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,f4wbCI9r-VXkSfWOdIFWTp0McpY9Dc3XiqqqsWjDjftbP64,BRO Hena,131,I,29,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,E-OAD-I7pGT2aMgufSaQBSrU2YnYPIyhlUlwOxpF9ZCX7oDQuii9z-h7sg,토 뇨,166,I,50,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OfSzZmEci5qxxE8v4w-lzSWEwaOTyBjS400oBZAWyPo4KFs,noobjgjg,120,I,53,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,GSfXxYc_lklCsMp1m3jcoXXEHU7Fxy4zg9teTSrKqzJzcHxNcUJenZhbUw,adasdasdfaf,211,I,59,52,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,n3FqGBNZYLHfye7Dy_qzWeTC5PA5zHUXz03bOBX24xoZFJOJHgtxhxGzkQ,Count Stars,1,I,36,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rmxtTDU1VRSUWEXW_2UvLHyPLG7bqf45OGRi3PXRj7D6-8Jb_tUUDlK-_Q,재현표인데요,0,I,59,58,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Q59cLgjRyicd9eooVKuLsZVniccJgGFFEC2KQZhcjI_7VtuKg0SFRUHgFA,T1 포톤,22,I,23,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AnTmT9XmW4HLEBQUIiHa4FlVVl77in9UOiI0tEzUCRkgMvb5xgk43jmVJA, Happiness21,45,I,48,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Ye9s-JO29oNaaOc9JL1YiGxQeqKBuUw3FwbLREna7Nrk4POHppY_btTVJA,안녕청춘,0,I,30,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,YaybV1E7bQO9wao2NkidZCZQdDxcCU1704OjsT0RROlVZpU,예쁘게 말해줘요,1,I,23,12,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,S9MuA4tHzYD6iICunIAg6YCPAPnqPQI5RUkeQoyb-KTvRw,HLE Key1,32,I,32,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,JqZ_hgoj9Fi8JDyRSvwXv3F1KA_rBeq9aziXX0g54P84vfM,송내역 와플,104,I,61,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Iccp27eGEjKcBgDVSfuZsFEtkrZVPRKxU6s-NRkJ2qkSVOhnEuxsJE96dg,LinaBell,231,I,36,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,CV4Vp_SVo_V1IdKz1G6_02htRtvIHs8sdS6a8_cqfVjF5GvmCPqFOuRnUQ,6667,19,I,57,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,oAFiGlQo21l-hzNleRy348z0uByeTfBcCz9GeefBw4-yzlc,KT Way,81,I,27,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,bzb0Lu47idbgFWMmyemOFd5DN4kfcnBnU-AMZKO-u4TXqcA,HLE Cheoni,21,I,21,17,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QehisHkcCB79h2DGDnUIVZIN6jFt9zz542iYmjvMLJEbDP4qPBgfrWG4YQ,yinheyoujikexun,90,I,41,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,b2xNd46LZTtn7lJZzMBfETTLlGjel8qWLKfm8U6LBCoUafosM0o0AtQIVw,준상꽃,16,I,55,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SP1ASSS8QFS4Tn3ENmmN5AdKwUMjlrAEvmYLhZ3GRO9xmcPYEzW0Kgla8w,ADCGOD 12,77,I,28,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5qDpCXnZJ5NUIw3X9OOJ9HtgNQ7klDRva0XE_p3bxaV-3Zg,빡 표,1,I,24,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,T075bJynM4HLfqG4YSbENgRSPvtltsoKPjuNYeF_JYYGGWs,ANG TV,20,I,23,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3v840-udNp-1QTT07x5NnygkfWwO-_WxRYENDVCBHgTKbw,대야웰백,1,I,20,11,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HZIOSbA-l9J4p15rYrgSdF62KDu9qLGfsfIo_4C-Ne4UhLoJDzcTXSKpTw,acet5,81,I,57,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,K3IEySV00wUHIsY1eOR1OVW2HFG0l3n4T7-sQyhvRljO_qU,다누를 기억해,111,I,36,18,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4Iv73ijSETNlRw_wLEokLyM5tm2zEvJIRHPIagugIXiuG8lYUmcIkCRBqA,xiaorokq,21,I,43,35,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,zmZykhvL8is-g40dSeFFvI_fyMG1acefYqqh-LXPSyzj_CBTZWSUtnzPkg,산본 이니에스타,60,I,28,12,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hNJT1UQBmKgNZ6HFf3YmaQclwNcAmCPSpbsnE0mR4bdtSOI,Kora,38,I,62,51,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qLrTJQO7L2J9SD12u-2uiz9H9IlUVnmMiOuyc72NMTQRl9I,아칼리할게요,1,I,60,55,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Wkwk7ScmULgJ-WsEi6VDbNlB02Kt78Lm6eyIKzZieFa_pBY,Eslnd,1,I,27,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,NjnI8Ff4ejQgGPE5DtQSyewueJeq4RRtZ7jBQBP8kt9eiEx5LuF0Hm-NgA,sangengbanye,1,I,28,23,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cEYxUFYtHrST9FVNPc5JSbPgm9_v7yBMtngc6zowN2KTltE,un diffuseur,69,I,38,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Xo_t1E5TyCj2l5VfoehyIGxn2bC2o3p9x9BO3lf08HPNGvAtuXmqCyHZQA,내일은안와,50,I,53,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SxcL1JxM_iJRJay3kCi22JoPSTzTU8v8N7DONyPTBROeYk5jFKVIlevJUg,BOSS뽐내는,19,I,31,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,1dhJ1U3JStJfazyRj2vHW4MfzBuj_4LqpSCvRxPQxU6wTVg,아 늘,54,I,48,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,vR2ptTZyuYqYSxdIe1TDBuX7LbFWNfAnOrMmoabmLGhN9ruZWZywfDzzww,잠자고싶어여,0,I,56,48,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,u6jTTpePs3ikkpap7_oyrPDaLW0rrG8r2NIG4t0Z035wkEQ,3donghezecaoxian,43,I,22,8,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8YrLyIvnpqeA7JELgYChZwD9oJ8pKZ9ZeigTgcqdpH-YOqHVbIIfxlC2vw,neineineinei,43,I,53,46,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QlRV588W4uKF40vuAa1gEqiZR7w7-gMtkGx1nTixJetuvjE,최선다했,79,I,42,43,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,CxzOUY1oaz1_AJRrwmci8A_VPTtYo_sRoyDxZNeB540Ofg0,dykx,106,I,38,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,nWBsw9dc10AhhP1iHZ7Lrco_DsxHfToA59il9PsPOZbeOXh7hAd5F6BEoA,밤하늘의 별을1,201,I,52,41,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OpwKR06lstjc_qh2sMFOsPufdrpZhbIGiX-v49vUdb-WoJc,서울가즈아,29,I,30,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4qqdSUt6PMvnNeuK3a-keTkrWXWFug8EPFD4mlqg4FctPiM,트위치 백색말,190,I,80,66,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5_o1c7_miw2Df4-SuNKs2aN5rai0Zb6WVpoEFYLlcQeXOeQ,폼 팡,1,I,27,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,DZksPrWJg6OErghzHql5iFEoHZ4KHlSKZPTjpurUMeQLP_wNMw4UsVDOng,wei lai ke ji,82,I,46,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,94jyypCSUaYpIdVRnR4K0DtEw2GGhW8xxam5vNP3LIDfvsU,Gen G Ruler,1,I,29,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yxUQjIZjjxm6Fdyv_DzUHWgMnMP9LbXUkI9R9xLWJZ07TlQ,geunnnnnnnnn,40,I,33,15,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Mra9TYsWGcBj91doLmsy9HznH1o1blA8thp-fk2WPZwI_yk,incheon meat,117,I,30,17,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7Cdu9P9lHNETz_JqjeywLv-95QcSeWCsxZH-u8cjiMI1Tx4,포식자,195,I,50,43,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Hs5dWCbKkutwjEK01NqYpcHgWtBkWVnAIPDEgTiG6qqkn-5DHzaH7GliYA,Reve Bonheur Toi,32,I,25,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,O4XSI0qvwZTRhuI9n7p15LArWigkweceXV_yodAgQ9z-_w,S2 2452,62,I,70,58,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,iFZvEa6EV078GDrd0QrXA5go5lqm7B3WusZfi0iwfSiyPG8,너 가원하 던 것2,17,I,42,32,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8YwiJIM7cn1cJ_MR4I5FYz0r4DEhOGgAR8i__031VVucZN0,Hermoso cielo,80,I,45,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,uDWPboJmFqgGhXxygckQNFD6IySOOkhoKtM2-8Z4kKi3vSI,NS Sylvie,67,I,25,19,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gvAsTphwhzMcMZShHlc8dXiZuuM8w_A4x1jIt0Orwxd2wRc,숟호신,42,I,48,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,FUHl_AMUCUN2ZG-CUAGwf5OsDy5IK-53WUqYERLPA0qPZ581,DK Lucid,103,I,25,9,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AzjaCxfl94C8z6m9lh5mkguJZUZF-U5COLO9GKLrtGOUvtQEOFb5T-k6xQ,해오름달 사흘,0,I,35,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qKzgh7SHFOYqp689RXneG9jEbMxqKYQH-PCZwFZaw0i98S4,qweasdfl,112,I,27,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pXfOJUxjaMsVnkXqagFJAJUqhGzH456S7FtO-3VoYBy1u3SRaz-jtWiFbQ,Tanghula,47,I,41,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,lL-oQubz7dKpW25oPGhDx7eGjRvMQ44TovnK57KTAk2cjbxzyhex8I4uDg,shenzhenshaoye,189,I,47,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,MkNZiEkv9TBRw6spoiIsiuYaRFAAQOtMGghlTaCKlwvORYTSYiq7BPZ15g,YeQiuFeng Carry,0,I,24,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yD8XneZObP0d1gHR_o3sXGnQwpo3O3hBxiGDBDjdNOo_rrI,wdbyzmw,39,I,31,37,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Wdhc3bunM5FUyQjQCAkOjNsSM7AXVdeGb5fJ5e2hHo7BSQo,BRO Delight,118,I,30,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,h2nUj6fivSD0zakRDYL9XJemVXxLuHKqZZ7PiU1mnfzyeI8,징징문,115,I,32,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,aSHbzzS_YiZm-kdHs3Q4wYyQ-I468EmudFtpnL4R8woBoxqmaSyuskYZMA,zxckasok,36,I,40,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,w9edoyjljj_aBV6gKsSEDIc6zQJUcU_aFk1YK2oV2tGWXY9k,무한압박,38,I,61,60,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,XSkxznNJePUBaAoILLMcXPsnfDA8zPtLWX-RNoOg8yxJBGY,쌔 DI,1,I,26,23,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qLMvmWMmnJRKGP--xIt4_OM-KRyAnPYz_Sl3XjIP4-WfkXI,kai xin xiao zi,112,I,45,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,A1NCk3u8i5oFFRsKZhQU5-D73z44OBV-SAjSFiulYxW-04U,likechloe,84,I,28,18,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,VYQN_TAxTsC-Mb5hzPOvn38Ek7bcXcKaqDegnhwZyuII8TU,HLE Roamer,33,I,33,25,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fTKEDDieFk2snBOPYH1uhnh2TvXIya2I51qIGUKxdBMw9j8,enrage1,21,I,30,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EJFcZcQy0xEpSzZDVGVWyN-iAgoJnlJqsNdl1nMTKQccBOA,DWG KIA,66,I,21,11,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,XmeiTghOY8UFl9FccDfeRz17CQX3YraSuFgBsDR2VD-OxvU,이 기 다,1,I,49,43,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yrasKWgBM-YG94eWJEfwqxPadcqCDu0eoSmC0PGq_wUnQQZZvEfTJSoFqw,석짱의피지컬,31,I,48,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,o0DCcOPVXnHgi8ylxSVVGPW7SIP9E2jtSHLIm3TrMcIo19s,나나짜짜박박미드,60,I,21,12,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,B97SuthTX5oBJoip6c_t51xqdk31tzLHKYhJJ9aCcUS5vgc,2003 FA JG,56,I,35,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,LbJMkDkKCwKStp2wfR0aL1HqAe7wfHWQP4RuWF4R2dUcug,서폿빼면브론즈,53,I,53,37,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,MiR6JWXYJtZntOGwZph8Lmk67dR5eahQS2UPqAxlU1JAo285,haoye,113,I,65,60,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,aZzAuUksBzciFDzazabuj8T0-TdRZxIqBDUZjryTh2KTId0,선이냥,0,I,27,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EVoAwX2jJyj8llI83cbvngCC571Wnat9jXVlLvut9S--J5WZh9gZupr2JQ,chaojibaobeijojo,0,I,22,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,glaRPQeRMy_RZyKtniLA6joucqgqvcfSYA6Vtbwun_jXu-o,PSG Tank,20,I,38,27,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SajcwogD6TzJZFi8auHOB9bv-0iqDmY0mKjqq6P833MK3C5jzn6as-RKeA,Today0326,1,I,46,33,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,KIoWzI6qa46EzlTA2mM6CctcKeY2W-x-2jQVIMtzvfcOb78,See u AG,1,I,18,5,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3k4ir5vMv3kW5GuUHIzou1Qz3CJpBmDZSlUQ6LiHYcYh5aE,헌애기,15,I,44,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7n8WDFuaM8JwnzbqD-SKoVuHQ1RqnEoToqtQsPOzU6dFPdM,기므태이,21,I,29,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ObCuGgMUMcUiyXecRN8PgrLkiXLQdTI6G982ovpskW3XCzrr3wwmHxNIjQ,밤을 달리다1,6,I,30,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jnJgJsplcJ5dJWHykVTOXBt2wqIA1uS86c1jqRScXZ3C-exZ-eC7E78vpg,폴 루,1,I,43,35,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,AxGYj4T_0ohUFf31kICZ2bLYbD8NxUn2ZlWVI50aHevnOGg,n1u n1u,0,I,41,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WtKNt8NkJf1DPwxFaBGNvJiO0ufaPsAP6kbsIza5JTTQljo,악몽의 초가스,5,I,47,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,eJMlmQRc0Wm68bvB842T2q62Wacz5kp2RoXJxF-O8_O7DY2Z--DaVFHZ8Q,김명치,18,I,58,52,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OyK-x4x7QO1BjoqmNDv5CR-ZUug0m_zhwS2YDkVZTi-N0pg,xiamulan,51,I,57,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8iYg3upZDBjDBfiwqWYwfWhwA60L7_tAqcnBbl07WIM7Vw,데스노트,69,I,68,61,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,MZbmKq6ClaIlyWaiCJbD11XF634DO7yNBFAtg4OyBkBQpys,재미없아,102,I,31,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OHbZqcMdsS05xQP1yBVGNzSlXdaTIYpdsnEqo92gUxowJr0dky1Pz8nDBA,씹야무지다,79,I,42,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,KdUO8yR0ZsOTvKwVQLUxARu80EdC_akuoBNU9U7g8tcjSg,tiangtiang214,3,I,65,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,hIo13E8B76mOuQTKRPxqyRf-E-SGJyJmnFLy-cvt6abSq4ODTkkfEPfaLg,오세현대단하다,51,I,48,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,VBqB3C-vYs7BZ75OItRQayCqVaKoysiTqtSwzrXZPT4eQQk,매판 예민한 사람,1,I,25,16,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,axx9TidFlaEs_AhxFINXTBsi7k0hXk0K-e3E8FHalC8fyXmyUObwWG4Cxg,Like 1999,47,I,27,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jqa0l-hT-Qgq_sXbJiyb7BOlWxZ22M_sZnAmBAn219hVQjOC1N_qEmwpPQ,역시폭군,126,I,49,48,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OuIPaLvi5oejodTlogvzZ3kkwKb7s49uOctd5pHZami7Pw,나 빽업못감,1,I,56,39,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,t-e7VlxDum_Rx88v9u3_NJxRu3Clb1Sbbn_xIdKXzMiMO0vFpbyVtzqpWQ,킨드의 왕,74,I,53,50,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,A5HW8C2s6psg9Ijcv8DEeCXLeUnT_d7LqRmNxSNnlPH4rIY,Kim Sang Hoon,138,I,41,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RShNNOX3_YndeLgllDFy9KnaPTiXgLEE8ncII6MJ55Uyj-6x9Koq-N14PA,aiwujiwu,41,I,46,30,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,o0Y4zPAeUT1QTP4lTC5lcIsTrAnakZLhJCtDPBmFjeDb6Ps,CrazzyCat11,134,I,46,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,wtdHx6yBKKAx2hAZ2AbSKq0vsE6_yRVLL7YjYs7NaA_JYE_hCmqcelPl2w,바다표범우엉우엉,38,I,40,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Cj6nyu3s48uhEXcnB2SkXJ-IjO9jfFrGSZ-e3jMRVjYnEAST3SzuHGgGJA,Likethefeeling,23,I,25,15,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,QWGnO4XPxnaQ3sYcZt6374qPgisBIM16DIVqMYxzJrqGCsI,헬 슘,29,I,37,27,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,vF0Q-J8ZGJOnKwP7R_2b_pgWOBnrxmBoa71zICsPDwAkKCT0E4dtTX6Lhg,mybrokenheart,1,I,46,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,n-j0_XAv8DqnwFEALHp4KlifgqDnTALvK15d6E5EBg5n4p2ZUPXJ3KsSPQ,Jennie1113,127,I,68,60,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ZFuYc5LdRiuv0E-PvMGx5BDDU9_yZZa_HB8eufsFsyHO9yUB,DK Pullbae,0,I,25,25,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gQpcm-pfACQCXx9366XFcbXDsuhAL4zrgb5rRmPUQG7uycP1b63wl__CbA,옆동산외계인,77,I,23,8,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,y9R3TadsC2QgtwbfNMqf9pArvEReN83s2Af6EESImr-mqw,Twitch 다훈갓,22,I,34,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,h__k8BrQPT5ewTLShlS-hijEA__HS-svLicHSeiiVJaF3yAB,반반반반반반밴,0,I,42,43,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WI0P8niQocFKndwTbr7_eel6YU3WFXuNQi4sJgLNDRpG-oWBcvgqAWKGGQ,shin3510,1,I,37,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ujKQCZCWRoSZ93069p6W2f4zvN_nFujw2Z1kX7yHrS7jGLA,꿀과 젖  ,0,I,44,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RhTwjtxcrnmq_jOFPzVerqmj896JvbM-6J05IROnxsUg-Aap,LimGeunWoo,207,I,58,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7EPSOSaIzRzWKC7ClkeMRee2Spc-ZB4WUStxV6ZOdYmAkNQ,HLE Seonbi,110,I,34,26,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,O9-rZ3idOGca-FgWabq8T1v6JkKeH0PAL1liEQzLPmRcJqo,Seven,77,I,25,13,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,-nNR4Rk8uphlRu50nmZBTK50WCNDtWjbkQcJ3W-V1fthMhc,YouTube변세윤,1,I,42,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,kyKwbm00cifKbs6PfgNK6IoI1G8FD7ivb5Nc2NQZBwLqh5c,gnaixnay,67,I,30,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WPb0k12sHcmRXCiLzQ7TuFZDZdgNivGSSGlR58XVNO_h3wFjtjqvrS1FAQ,shutuanGOD,15,I,42,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,uIBr3mYlxiVe_GlztdHFkt50l45bKTodbW-E3RyPaVFHWRWtAQH1nXTN4g,A JINU F,38,I,39,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,giBWqFym1IBS69K3K0ORHAJfm6vot7o5EH-mQviH00789sI,둥 잇,44,I,34,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,X2qsYqABz4HVDf2jADuJ_aHt1UtiSMhYX74invMKxYjGJkE,날개달린쩡이,1,I,44,37,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,EkFMp_PM45INU0xCLk5rjnTZVo1Hx9iNT3lsiGAFgMVwdJscJDN_SolXug,ES4BELLA,1,I,30,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HeU-iEcLdLjEbvMwmlD859SddJMsQH6A3lncJeeXOekesYkU_A74oaT2HA,aaabbccdd,44,I,92,89,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Ssf6WQzo5OaU70Qffemlrn9b4ZvoyR8_hd0zSXJV8IeORZBMwzpItt7jfw,악마시영,1,I,28,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,YRMzGulzKzu--Lqi69O1QkEgg-8p9w0_t711bzKpltHhz7w,김치 맛없다,125,I,47,31,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,XwEuJweT2H3-vyoikqTR0N4ibulw_G9BM-9twiLW4QbSQC70RxAhbJcc-g,emna,127,I,61,55,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,uudRE0Zp5F09nbvUYOKMRfzkdgA7KSIwIE4Y_abTCfbD4Hg,Umaku Naritai,104,I,24,11,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,BIDI4B-mMpoaYRZXj-_cZHy0mul6dRketvtNZlxWuM4hIfyx3_NKfDXYaw,dfgfdgfdz,0,I,21,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qf6ncoQcXhDKb9tEjrzD_l5IZY8OgB-e_0fsqUJHlzmwfsSZEc0Pu54W1g,나졸라잘해,6,I,22,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,K8aKY5MmXPsp5J1h4WMnUeyppqMmG1vqTNEUJQDlT5fEnxXvGARHJGTttQ,ke bao,1,I,36,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mALFWHSVrhKutBt6vVPwRxAYYLtDiAZz0shghvrEIb2VWAA,bush on Alice ,71,I,43,28,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,BUkHQnmB2gj5BUhMez0Ial8SSAJpsJGOHNTivheWKpVJDxc,HLE Willer1,69,I,23,16,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,l8jdpIBb3Bm3a201keteb7-pCi6yDrU9USgYvPO9T2N8B8M,River9,43,I,52,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pUH7_zf6i70vZMUfIK4Hcgz7itQeHfOJ_swxzFAA24Yxu1A,DangerousBoy ady,166,I,46,39,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,L-4_QiWi2h2gq4dMl8kix9SjkI8fKsDCEMQRdik_wFmNkgo4Tg2gspyagg,서번트 증후군,57,I,37,28,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yhFgwU2owCNLf0MB-8gC9H-uuinvoZ_9Mj0Rp1jHqewmXw,꼬꼬갓,2,I,31,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,lNHIIPhoV4KRfD1AOUrSx6sCRpNaY3xI-bTJOaam53WoamPp,장임박,20,I,36,35,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9J7pI4W5KiWLoi7Aou4_eyTqCBbYuQm38FpOYft7tgVfXBE, Climb Higher,32,I,45,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yIb3w-nnDlgFJYR7PdT5g7y55Heqqz63h6BwBkcZKvJa0Fg,나는이륙할것이다,43,I,47,43,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,h9UWOIJT-8EBMM-yK_vwG1ShX9moj7RwMcIOuhvBfuf9wHZs,whwrkxsp1,33,I,23,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mJjeU3dPOVJtFvhxq3QtBCasoAbpTnegNf-BEYaSAacXHlW4xDv6OKKMuQ,Zhuo,1,I,50,32,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8Ui6CrC-uiM56pKzz86OGfAOgbxV3qD3igMYZivVgonxuBN5TgXkAprIyg,JinjiaoZz,129,I,34,23,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,gcA88svuBa7jpjJ69QEpKQANfUuxJBm0nhA8N1K15NES0Do,LSB Winter,62,I,28,27,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,OLN2jKN24abEwuJFDPaJvqjkVmToVxgePpWo06ucDEjpM1SmUhkbmpV-Nw,hycsTOT,20,I,25,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,75LE5qtd9z4mteuKJXyl2O1FVYbK3VuNG0GH5zrVJR7NVti1OO2gpOVx6w,코다오리,0,I,26,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,HlwM4dWmOCA-BAuyMAnoZ7jeVD7CxiHHkfSlhdFPLyMZF3U,하루종일 졸리다,211,I,53,34,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IGN1b2LcdKEE344CJMBUkE1bocgx5y06gedxSztxi_LjFrsOfQrA_huajQ,ToT OoO ToT,36,I,38,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3S_V1pf6cbw4ShNMZIC1wqyLsBiayrkUy4mme_uXegS7zfPRF3j2Hr6tGw,또 닷지네,36,I,58,51,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,77ibqXbinWGVDcjgUMQ3Za5W-hNd0MgH0gkL7EkAxfIYBxv8MuQjKd634g,별 재미가 없다,1,I,17,10,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mzXIUy6f15lw0NshqxEhaLdAgcOhuGy8Ste7elDI6E1jvuqT6BjolQIflQ,SUPDOG 12,7,I,38,29,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2xcAVZdM6aJuwcqFDIkdoK03HzwEWYfVcMr6amLotriYhdQ,렉사O1,72,I,38,25,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9bm_MiGkr3XR5O4Nm21WCMYEXynFmPFZnoC0wDkLtUt2Hirx,j3el4njo,105,I,40,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cmMrYZaIepzzYx15gfevmG-vjcLGQl_Aqn9iGDw48-vUYes,jingshen qiang,60,I,47,46,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7JGMC71ex8Orsfs5yp3bRVV3j4jxzXuKb2dleaUp60KgSWdkJz-bnv2bFA,Wenmin,61,I,63,58,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,yPds0U8XV2YE4_L9EbfH128IbUUQDTDqUJBOXb6TXUv1AWJ3ZtEhl2jXsw,Siniannanai,73,I,57,53,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,JLVA54FXVuo3nTPx0ls5Z-YwrMK3lNOvySos-Um3aoEgRFqnHRUEUoSoKA,Fat Tiger,111,I,49,41,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,nvi_HL82N1DDnbRuOAQXREpeQXFOvma5Rkg-NtApMRZ9fV0E4rAxNw69VQ,마래리트,38,I,30,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4vAsx1_VbqJ6AvrPmdvDmkMOaXjMltqojdfRYEO94hdcc1Ky8Yg6qyHkZg,sbsbsbsbsbsbsb,75,I,43,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,elUTKONlI6LAYvJvJP7119npce36c_yyMH-jBwGe5xWFc10hRss90GwZ-Q,qqaaqqq,55,I,27,21,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SCISLnZj2f2WhPnOqR66pJndVXJrWHI39L1T80JAgUfScJI,안아줄게용,1,I,31,18,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Sk_pf3rcLSifPvUjY3-F3LJLuUlWG4T9MnGVd0BLARaCMUk,dia de sorte,50,I,64,66,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,DpqlV6-C7Ou6HMBUpgrt1a_At_zMv9oYMuDV0eVVr9zwEdQ,뭘꼬라봐,1,I,38,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dHhqVJKktgxtZ-7rqmqFVnrZlE8SXsChp5h8Old3y-NrmxEV_ykCeOVj8g,pyke k1ng,132,I,46,31,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,CFAeiH6On-xi1_9fQ96lYYpI_ntAkyL4C5BA0TN5WwInsgfB,역겹다역,19,I,27,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mpbrwMWkqoOTbw3sq5X4lBfIqnZgzlFLvGBg6xDUhYUN8g7v5ftaaA_dLg,qing lian ju shi,82,I,46,34,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,I8U7SzOW8qAYzDaQOtYFuuACmEDFypiZayuolgK_q4DxgPV05Ur_qxLDOg,CscyDzhbzBZ,97,I,41,42,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ba7zlSbb1b2p-zdUItfzIp_p-GXnxbJeu-X2UcA3Top48yQ,FA TaNa,24,I,25,18,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,VJb2Sf-udRlYiU0BnhbfR9KHYYneY4pYJyLqtKAOpJg8Xyc,은가뉴,163,I,32,24,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,LJ8_R0A0KGd7UhLNJ00ZARcge8aS57DaPqE8AktEFh0bjPqA32iPoCwWcQ,SOCRYDONTGETUPTO,0,I,39,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Jyna1wTHfiUtm59ylChJ0uGuvRXMKJlbRWHRf-s7qgKpmGE,LSB Envy,6,I,20,11,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,cuEMXldwUxslBCA-5f6T0C1a9c2lw2gZ_FuAeq1OwmmGY0QE7r5NlcO6aA,hope3,49,I,25,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7X6HYzXh6shH-kMIOMhctPkqKxpwDJWrZrexb8XzuRaFfCs,Death fr0m BeIow,93,I,56,52,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,eWLDuilIIpuHTKMyBgc6RmwimCJGEeG4i3HjjX6OKmvWMAptSp8JID31mA,C1awsome,0,I,35,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,N4VEwZkJQqzB_50oyK_FmXsoimzIjFhd10v4d2E19NeGV4Y,Assault0,97,I,79,66,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,S0CrPvDvfNK__9nI8t14CKFbpd2m38rVjClofXNF0PUsC-A0nSSu4VrMWw,LSB Duro,0,I,24,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pKuSgPk6lZmYnimE5HI5Mz4XqZqc5K-XuBb2oEkN4dh5LUs,RozenP,95,I,43,39,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RH0jlEbAFpTwM90_AhtOspp4Pj-E6poIo1uwXd-AK-Om0TE,guerlu,93,I,44,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,wjimsL8LZui-fq54QFLk-j1bzqyMdsirowNeVOWsikpzsRNwikW_8h9HVA,낚시꾼zz,112,I,37,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,fNl-B4p68WHIuZzvvGe6F-GXBhA68Lxk8bEENeA9ElQv3pI,정훈이의 모험,120,I,41,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,bT2N1Kp9rnIPiiYh4citolktz0oMDyb9G8pxnkyW4aeWCd0,Lepton,19,I,51,48,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7620PHRAObIe5Ho8--lBxeo-2DVMyat3UvBpqftoR5AT_fA,12o clock sleep,36,I,60,59,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,PLujMav3hdq83MG4vn1UCZpEh63X6YigL-LIfXOZYwFu4WQ,Freecssr,108,I,31,16,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,q8wJJnk3M_HK0vfGKD5A4zjQftdbxHbR-qxKecP_zEbHV4zmTxNp3OEvlQ,Far from enough,80,I,25,15,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,a1x-7hvIrt9KoncPSPkqUBMXIV55djKuVsXvI3q8gAUUbcMJVHY_C-0PZg,WE Shanks FMVP,88,I,30,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,R5kqw6B52gnPKiBA2WCM4Wx6Z1qq7gQQQxZgICSr5eoNgXwwObaMJSxLMw,김타규,65,I,57,45,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,E3Ht6c18xANeArOdIOC16cYBTbsuuRhC-Lvv1_rlD-SeFMfv7jwyuJCB4w,zod slr eh,1,I,28,16,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,i46BJaqPZf6kDyIuehKQyU3TSGbV5xtNBp1u40GIXIn8DRA,탑 가엔싸개,46,I,27,14,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,MhuNAFKSD_YafKXUnE-eIr7Ie8RVl9j1ykrP-yiwuXJ1Y-U,나는성공할것이다,20,I,50,47,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,D8MJj9ZjvdvGDX0w8v5lFeyozhbair-3GFxT89JgGhBCJ6SHz_wusuhpiA,wwwxd,29,I,34,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RSwhcmB_y12-JvZb09tZnBTKEbvoUMPSvNKmjeyL7nXzoBo,Zrs,1,I,22,12,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,CBF-AsIW_iEWBTgbHdf_jxlZooJ32S4dX89WhbtsQuKJ_FSGAHI2uNTBLg,Honp1,295,I,82,64,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,4PAqQh20B4vPV5pLjXKCQVVnExH2LouBLlJvcoYGVTWuzms,그냥 벽,1,I,37,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,9L1y8otr270HlitYDrlrg8CMqfaV-l6LJ1vO7FyYCmz8Knc,Lehends,92,I,29,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jkyDITSLVHuXIEogM9z5y8qEQUsSA9S2xhpC1Uqy5lW9QzI,DK Kingdom,127,I,42,37,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,_SJZ6BjnDGiV5UE9T27WGg5D3vk4uTFqyRenYV4qzRIKMWc,돌아온 이상호,56,I,47,33,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,3buMaM2yfDRW6pnmcLMRpQZTadytUDFGSui9OnGr7rSEl40,ddmo,19,I,31,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,qK4ZkdNfHfv2C4AZq17aDDI7ZqIhA02BK3WCAf9aP2vhR6Y,전투혜지,1,I,40,30,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,ugQ8R1jBvV1amxAbiFuxDTBYddPHF_608BrFpQwrCztxyD7uosTWwjDaLA,KT R JGL,61,I,33,26,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2__vgdUJAapEZNS5OuzbxkvwHAlWwrPHXTZo-qXUgoTw-mALWsH-sqF3IA,Anni,1,I,26,21,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,sR6O51PfWO4LYEklVBNhu5MYZboVyOJQcOLKdMrxgc-4vAqV54h_amwNDA,하필칭찬다받,42,I,29,25,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Wc830tCnTWx3Akz2YmoCq9wUAqID_vvR0xXdmMUyDVKjYz8,스물다섯번째밤,128,I,55,54,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,zo7F9NDarUeUE65H3pAmjb_onCvMF_O5OMk8mColMns5s60,DK ShowMaker,12,I,15,9,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,8qlsrn0rtKNgQI1uxRGB0Z-HTu3fQMxbfbroKTooqZHO6KDNSWdCL4ieww,kimchi warrior12,109,I,29,22,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RSAziDPc-nbWxuAxR_9YuvwXAYpwsxJgyPIvl66HCm-FlGc,BJ 망치부인,62,I,39,28,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,UxtWYrbW1ccxfYB7w5ZrW0wzVlkYFirS_CIpk057A0Jq88k,장단점,1,I,29,14,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,BIG_txGMst9YcrEAFV8PXunTYI_YFod64laUilXZ0EyNnwM,어쩌면 영원히,83,I,27,19,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,RtV9luI2jMwcEd7t8Sej24BINlpCxC0lbr8OyyjCKZyIWro,Juhana,41,I,34,32,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,LTChiqZywRP3QCrbNw0b22QUkjF3Gs1mg5IHa606XBfALlXDaTkASWARDg,made in future,37,I,57,49,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,WakCm6xEWl6hQOme0MdrngcJLcLL_mJFxVPlniNuqhGtabWbXYJsK30law,재훈이의모햄,192,I,37,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,7a9IB1gFCN9quMwjSgOjsBbUvFf1W-brvEWob0-k7NpObNB1Vh7rtg6xTw,asdqaqabcc,65,I,36,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,6kB0lDsYWLVTQpQmLxySzTzoSyFYZrUPHH9KaB8Obi_jNGunzbRhFpwUuA,Hanasanaide,19,I,43,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,pwuBIdk3vuFHVFjSwwooxUtQhIWORriY0eHQXBtWtbnKqficEa_rbTTTgw,WEzhao522284765,40,I,29,22,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,xtmiF5DlpSCLICvfWPftGMKUuENWevNbNHvfXujQamwYrRs,Lelitz,22,I,24,16,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,eeLBa1oKH5wHWCNgSwkg4C_Qb96lANG444qnPdXzC6rweQA,우린팀이야이기자,1,I,45,38,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,UvdxTLceOZrBIl_y6MC4zVRELfYLls5uJNzjM0K6Wze8ndQ,아가맹수은규,1,I,35,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Ug4nQ_-C4YEDLe7LcnhKzO9btPaRAJalt7X8eGiDidB83VY,의미있는아이디,41,I,21,8,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,mEUdcRTm497GXouQX_1Jh5IcZxaeYtN4vun_IpI5NKiXubE,EIderwood,21,I,37,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,5F-VDS7S3m8rjc1GVqNNq-cKi3IgSGy2fTzb6isOOTvBr9OvP-wsVLgmBQ,save1,149,I,67,57,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,Cd9giyKKT4IOXhLavsCFCDNbbkciO4rSzgL29dME_wT7Ng,꽃이 흩날리던 봄,75,I,37,29,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,1evZgbpn5UbNO7iddPZ8brap4NkUm_-ECUNBXWyF1mEXBXFxRFLQvFI15w,지훈백크,147,I,45,37,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,FNr7e2DWa5Chtc1l4KVQmaYAS5uNEdXaijUiPd7Lj8CNQPQ,hao yun bao bei,19,I,33,41,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,bTBd8HCuUXYyafvXSdt5Sxc2Ak7luaVJ8r0T4OPaC9jVCA,K 쉔,83,I,39,26,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,SuIcijYGMGk1esXJL8XiueJpPmNENPI7F6D_ofzR6yt7-7PGXbuWvtw23Q,yunyanchengyu,72,I,36,29,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,iFT95L35J7VYSZl1Caqg3o3qXMEnh6XoAMxAXRt1aLXKLAMBNY8k-4hDpw,T1 Poby,1,I,35,33,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,IBsmI2iyAqb8HDx-VaaC_Ee0kkBegzMC-MLIXTlzrTn4ypM,장수열,1,I,24,20,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,dkt9QwOb6ztj1EuGD3Y1UwAxglhW6r_VwwMUdC5_kN1E5KTCxez5vmcT7w,104k,1,I,40,19,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,wPNZGhVMRR986fm16O45jjqIR7gwZ4Qon7Pi7ydnuae2zZc,옷코츠 유타1,19,I,42,36,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,2GD9zGrK5IY0vahBRRYZrqSqKjHTOe-gWrXU3Ma9tkUf5Rs,K T,107,I,29,17,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,jZghwzPJ1RPZ_jQ4U7oHcDf1cmWgiMXKxhNO0JkAiEKGNMDVxaQU9PbbhQ,megaomegao,40,I,44,40,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,n_9M_td9GXAY1XbhOyMQW2RZo33fqMtrFxaRoLzYBQ_RpVbU59uvJu820g,kirfg,21,I,77,46,False,False,True,False
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,rayXfANERKsATIiNlIFuekt32LPf5qnUZg8yOTOA8eHiqXW36JCApuDFsA,yi nian zhi qi,87,I,19,10,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,c44O9eU4m0J-_FONlNUUDsgaI5gYMygPlXrUJ95jBX2LrOkKBx6_ZUV4mA,yue xiang yue qi,21,I,30,24,False,False,True,True
+MASTER,aab9b730-2078-3349-9884-3f28e02a0610,RANKED_SOLO_5x5,Olaf's Swarm,H9tYwUlFt2T99jW1clWddIx4ga-AfftSGLPkVOAj03GBBiQ,Tia Ray,1,I,37,30,False,False,True,True
